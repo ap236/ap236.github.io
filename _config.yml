@@ -1,0 +1,28 @@
+# Site settings
+title: Andreas Pick
+email: pick@ese.eur.nl
+office: Department of Econometrics, H11-20
+address: PO Box 1738, NL-3000 DR Rotterdam
+#telephone: 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://people.few.eur.nl/pick/" # the base hostname & protocol for your site
+#twitter_username: ""
+#github_username:  ""
+
+# Build settings
+markdown: kramdown
+
+# added by ap:
+defaults:
+  -
+    scope:
+      path: "" # empty string means applies to all files
+      # type: "posts"
+    values:
+      layout: "default" # shouldn't change anything
+  -
+    scope:
+      path: "" # empty string means applies to all files
+      # type: "pages" 
+    values:
+      layout: "default" # shouldn't change anything
