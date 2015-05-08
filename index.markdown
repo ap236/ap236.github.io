@@ -1,9 +1,9 @@
 ---
 layout: page
 ---  
-  
-<img src="/pics/And.png" style="float:left;margin:0 30px 200px 0;">
-    
+
+<img src="/pics/And.png" style="float:right;margin:0 20px 0px 0">
+
 I am an Associate Professor at the Econometric Institute of the [Erasmus School of Economics](http://www.eur.nl/ese) and an Economist at the research department of [De Nederlandsche Bank](http://www.dnb.nl). I am also affiliated with the [Tinbergen Institute](http://www.tinbergen.nl) and [ERIM](http://www.erim.eur.nl).
 
 **Latest working paper**
