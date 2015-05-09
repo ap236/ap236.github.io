@@ -30,7 +30,7 @@ Journal Articles
 "[Adaptive learning and survey expectations](http://dx.doi.org/10.1016/j.jebo.2014.04.005)" *Journal of Economic Behavior & Organization* 107(B) 684-707  
 [Working paper version](/papers/MP_27Mar2014.pdf)
 
-<a name="optimalWeights"></a>
+<a name="OptimalWeights"></a>
 
 * Hashem Pesaran, Andreas Pick and Mikhail Pranovich (2013)  
 "[Optimal forecasts in the presence of structural breaks](http://dx.doi.org/10.1016/j.jeconom.2013.04.002)" *Journal of Econometrics*, 177(2) 134-152  
