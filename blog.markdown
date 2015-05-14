@@ -18,6 +18,6 @@ title: Blog
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a> if you have to</p>
+  <p class="rss-subscribe">You can even <a href="{{ "/feed.xml" | prepend: site.baseurl }}">subscribe via RSS</a>.</p>
 
 </div>
