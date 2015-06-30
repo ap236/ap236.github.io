@@ -52,6 +52,8 @@ Journal Articles
 "[Forecasting the fragility of the banking and insurance sector](http://dx.doi.org/10.1016/j.jbankfin.2010.10.024)" *Journal of Banking & Finance*, 35(4) 807-818  
 [Working paper version](/papers/BernothPick_Oct2010.pdf) - Awarded price of best refereed publication at DIW
 
+<a name="JEDCcontagion"></a>
+
 * Hashem Pesaran and Andreas Pick (2007)
 "[Econometric issues in the analysis of contagion](http://dx.doi.org/10.1016/j.jedc.2006.03.008)" *Journal of Economic Dynamics & Control*, 31(4) 1245-1277  
 [Working paper version](/papers/PesaranPickContagion.pdf) 

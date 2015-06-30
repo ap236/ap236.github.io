@@ -6,8 +6,8 @@ address: PO Box 1738, NL-3000 DR Rotterdam
 #telephone: 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://people.few.eur.nl/pick/" # the base hostname & protocol for your site
-#twitter_username: ""
-#github_username:  ""
+twitter_username: "@apickeu"
+#github_username:  "ap236"
 
 # Build settings
 markdown: kramdown
@@ -25,4 +25,4 @@ defaults:
       path: "" # empty string means applies to all files
       # type: "pages" 
     values:
-      layout: "default" # shouldn't change anything
+      layout: "default" # shouldn't change anythine.g. g
