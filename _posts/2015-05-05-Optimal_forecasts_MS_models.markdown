@@ -21,4 +21,4 @@ The results are quite informative.
 In empirical forecast evaluations of Markov switching models, the typical forecasting period has been dominated by the great moderation. This is precisely the middle regime where the optimal forecast from the Markov switching model is the same as the forecast from the linear model. 
 
 The paper is on my [research page](/research.html#MarkovSwitching) or download the latest
-[pdf file](/papers/Boot_Pick_31Oct2014.pdf) directly.
+[pdf file](/papers/Boot_Pick_2015_Optimal_Weights.pdf) directly.

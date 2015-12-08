@@ -12,8 +12,8 @@ Working Papers
 
 <a name="MarkovSwitching"></a>
 
-* Tom Boot and Andreas Pick (2014)
-"[Optimal forecasts from Markov switching models](/papers/Boot_Pick_31Oct2014.pdf)"
+* Tom Boot and Andreas Pick (2015)
+"[Optimal forecasts from Markov switching models](/papers/Boot_Pick_2015_Optimal_Weights.pdf)"
 
 * Michael Biggs, Thomas Mayer and Andreas Pick (2010)
 "Credit and economic recovery: Demystifying Phoenix Miracles" [SSRN](http://ssrn.com/abstract=1595980)   

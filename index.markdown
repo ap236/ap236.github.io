@@ -8,8 +8,8 @@ I am an Associate Professor at the Econometric Institute of the [Erasmus School 
 
 #### Latest working paper
 
-Tom Boot and Andreas Pick  (2014)  
-[Optimal forecasts from Markov switching models](/papers/Boot_Pick_31Oct2014.pdf)
+Tom Boot and Andreas Pick  (2015)  
+[Optimal forecasts from Markov switching models](/papers/Boot_Pick_2015_Optimal_Weights.pdf)
        
 #### Latest blog entries
 
