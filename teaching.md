@@ -3,8 +3,25 @@ layout: page
 title: Teaching
 ---
 
+FEB22009(XS) Basiswerkcollege
+-----
+[Course information document](/Basisweco/FEB22009_Course_information.pdf) | [Slides](/Basisweco/FEB22009_slides.pdf) |
+[Schedule](/Basisweco/Schedule_basiswerkcollege.pdf) | [LaTeX template](/Basisweco/Basisweco_template.tex) and [Bib file](/Basisweco/Basisweco.bib)
 
-The material for all courses is available on Blackboard. 
+Teacher codes: Dutch 1167, English 7009
+
+[Groups](/Basisweco/Groups1.txt) - Please email if the information in this file is not correct. Include your name, ERNA number, course, and, if premaster, case.
+
+### Case 1: Econometrics
+
+[Case description](/Basisweco/Case_1_description.pdf), [Data](/Basisweco/UK_house_prices.xls), and [Data for each group](/Basisweco/Group_data.xls)
+
+Important dates: 
+
+* Deadline for proposal: Thursday, 5 May, 17.00
+* Group-wise meetings: Friday, 6 May
+* Consultation meetings: Tuesday, 10 May
+* Deadline for final report: Friday, 13 May, 17.00
  
 Current
 ------
@@ -18,6 +35,8 @@ BA (Econometrics) 2: [FEB22003 Voortgezette Statistiek](https://courses.eur.nl/#
 BA (Econometrics) 2: [FEB22003X Advanced Statistics](https://courses.eur.nl/#/2014-2015/detail/FEB22003X)
 
 BA (Econometrics) 2: [FEB22009 Basiswerkcollege Case Studies](https://courses.eur.nl/#/2014-2015/detail/FEB22009)
+
+
 
 Past
 ----
