@@ -1,4 +1,4 @@
-Version: 3 May 2016, 11.00
+Version: 3 May 2016, 12.40
 
 Group 1
 Ymro Hoogendoorn, 413127
@@ -61,10 +61,8 @@ Mitchel Stegeman, 407864
 Floris van Heiningen, 387997
 
 Group 11
-Tom Zweekhorst (408797)
-Harmen Schot (413644)
-Mitchel Stegeman (407864)
-Floris van Heiningen (387997)
+Quinten Houben 408268
+Jeroen Kleene (382298)
 
 Group 12
 Linda Punt: 409135
@@ -113,6 +111,7 @@ Kalap Man 357394
 Dylan Buter 415000
 Leon van der Knaap 386320
 Oscar Schyns 375237
+Jeroen Kleene (382298)
 
 Group 20
 Mathijs Stelwagen 419693
@@ -131,6 +130,12 @@ Tim de Jager - 408569
 Sven Boers - 409430
 Koen van Wissen - 409915
 Emiel Feitsma - 411380
+
+Group 23
+Jovana Milanovic 385619
+Garry Martes 408089
+Hugo Elsing 414152
+Alexander Gruisen 416038
 
 —
 English degree
@@ -240,15 +245,14 @@ Dimitrios Karloukas, 428631
 
 Group 6XS (Econometrics/QF)
 Pu Xie, 365577
-Shengyu Zhang, 427156
 Xuejun He 425016
 Verginie Ovanesyan, 429691
 
 Group 7XS (Econometrics/QF)
 Emanouil Gouvianakis, 432660
 Tomás Prunello López 434094
-Shengyu Zhang 427156
 Siyang Hao 422118
+Shengyu Zhang, 427156
 
 Group 8XS (Quant marketing)
 Renkse Hemmink (435001) 
@@ -256,7 +260,7 @@ Bas Dunn (434067)
 Jeroen Busch (420012)
 Eline tjeng (432541)
 
-Group 9XS (?)
+Group 9XS (Econometrics/QF)
 Sjoerd Sterk, 431754
 Marnix Koops, 432409 
 Maud Brands, 434128 
@@ -264,7 +268,7 @@ Pieter de Wet, 427863
 
 Group 10XS (OR)
 Francesco Russo (423992)
-Jeroen Kleene (382298)
 Iwan van der Biezen (434075)
+Faye Jasperse (434795)
 
 
