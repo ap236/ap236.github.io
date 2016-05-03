@@ -1,4 +1,4 @@
-Version 2 May 2016
+Version: 3 May 2016, 11.00
 
 Group 1
 Ymro Hoogendoorn, 413127
@@ -126,6 +126,12 @@ Aagje Franse 414567
 Anke Clerx 413159
 Jitte Dingenouts  415505
 
+Group 22
+Tim de Jager - 408569
+Sven Boers - 409430
+Koen van Wissen - 409915
+Emiel Feitsma - 411380
+
 —
 English degree
 
@@ -151,6 +157,7 @@ Group 4X
 Wessel Vis 409173
 Victor Boddé 413664
 Daan de Heij 411991
+Suzanne Veltman 408927
 
 Group 5X
 Siemen Spinder 386984
@@ -201,6 +208,7 @@ Group 2S (Econometrics/QF)
 Sven Herrewijn, 365982
 Joost Keij, 359367
 Menno Nillesen, 427297
+Tasioudis Odyssefs, 433735
 
 Group 1XS (Econometrics/QF)
 Jochem Oorschot 374143
@@ -232,13 +240,15 @@ Dimitrios Karloukas, 428631
 
 Group 6XS (Econometrics/QF)
 Pu Xie, 365577
-Emanouil Gouvianakis, 432660
 Shengyu Zhang, 427156
-Tasioudis Odyssefs, 433735
+Xuejun He 425016
+Verginie Ovanesyan, 429691
 
 Group 7XS (Econometrics/QF)
-Emmanouil Gouvianakis 432660
+Emanouil Gouvianakis, 432660
 Tomás Prunello López 434094
+Shengyu Zhang 427156
+Siyang Hao 422118
 
 Group 8XS (Quant marketing)
 Renkse Hemmink (435001) 
@@ -251,3 +261,10 @@ Sjoerd Sterk, 431754
 Marnix Koops, 432409 
 Maud Brands, 434128 
 Pieter de Wet, 427863 
+
+Group 10XS (OR)
+Francesco Russo (423992)
+Jeroen Kleene (382298)
+Iwan van der Biezen (434075)
+
+
