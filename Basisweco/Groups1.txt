@@ -60,10 +60,6 @@ Harmen Schot, 413644
 Mitchel Stegeman, 407864
 Floris van Heiningen, 387997
 
-Group 11
-Quinten Houben 408268
-Jeroen Kleene (382298)
-
 Group 12
 Linda Punt: 409135
 Liana van der Hagen: 409165
@@ -114,7 +110,7 @@ Oscar Schyns 375237
 Jeroen Kleene (382298)
 
 Group 20
-Mathijs Stelwagen 419693
+Quinten Houben 408268
 Stijn Brakkee 413906
 Jordi Roest 404345
 Naut Bulten 381799

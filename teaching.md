@@ -19,7 +19,7 @@ Teacher codes: Dutch 1167, English 7009
 Important dates: 
 
 * Deadline for proposal: Thursday, 5 May, 17.00
-* Group-wise meetings: Friday, 6 May
+* Group-wise meetings: Friday, 6 May - [Schedule](/Basisweco/Group_meetings.txt)
 * Consultation meetings: Tuesday, 10 May
 * Deadline for final report: Friday, 13 May, 17.00
  
