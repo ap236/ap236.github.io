@@ -1,6 +1,6 @@
 Group-wise meetings, each 15 min
 
-Meeting with Sjoerd van den Houwe, H11
+Meeting with Sjoerd van den Houwe, H11-24
 10.30 Group 1
 10.45 Group 2
 11.00 Group 3
@@ -25,7 +25,6 @@ Meeting with Sjoerd van den Houwe, H11
 17.15 Group 23
 
 Meetings with Andreas Pick, H11-20
-10.30 Group 1X
 10.45 Group 2X
 11.00 Group 3X
 11.15 Group 4X
@@ -44,3 +43,5 @@ Meetings with Andreas Pick, H11-20
 16.00 Group 6XS
 16.15 Group 7XS
 16.30 Group 9XS
+16.45 Group 1X
+
