@@ -8,7 +8,7 @@ FEB22009(XS) Basiswerkcollege
 [Course information document](/Basisweco/FEB22009_Course_information.pdf) | [Slides](/Basisweco/FEB22009_slides.pdf) |
 [Schedule](/Basisweco/Schedule_basiswerkcollege.pdf) | [LaTeX template](/Basisweco/Basisweco_template.tex) and [Bib file](/Basisweco/Basisweco.bib)
 
-Teacher codes: Dutch 1167, English 7009
+Teacher codes: Dutch 1167, English 7009, Dutch book, old version: 4347
 
 [Groups](/Basisweco/Groups1.txt) - Please email if the information in this file is not correct. Include your name, ERNA number, course, and, if premaster, case.
 
