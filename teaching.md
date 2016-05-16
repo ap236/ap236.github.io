@@ -12,18 +12,6 @@ Teacher codes: Dutch 1167, English 7009, Dutch book, old version: 4347
 
 [Groups](/Basisweco/Groups1.txt) - Please email if the information in this file is not correct. Include your name, ERNA number, course, and, if premaster, case.
 
-### Case 1: Econometrics
-
-[Case description](/Basisweco/Case_1_description.pdf), [Data](/Basisweco/UK_house_prices.xls), and [Data for each group](/Basisweco/Group_data.xls)
-
-Important dates: 
-
-* Deadline for proposal: Thursday, 5 May, 17.00
-* Group-wise meetings: Friday, 6 May - [Schedule](/Basisweco/Group_meetings.txt)
-* Consultation meetings: Tuesday, 10 May, 10.00-12.00 and 13.00-14.00
-* Deadline for final report: Friday, 13 May, 17.00; 
-
-**Submission**: please submit a hard copy of your report outside H11-02 and email the electronic version (as pdf) to pick@ese.eur.nl with the subject line: *Final report group [number]*
  
 Current
 ------
