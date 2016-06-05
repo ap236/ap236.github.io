@@ -141,6 +141,7 @@ Yudan Ying, 378821
 Vittorio Romaniello, 405961
 Xinyi Liu, 406014
 Lisa Schut, 416675
+Lisa Eline Swinkels, 415276
 
 Group 2X
 Joyce Hu, 406834
@@ -173,9 +174,9 @@ Alexander Kiel, 386879
 Dias Irishev, 382635
 
 Group 7X 
- Chenming Qin,406001
- Anne de Weerdt,412029
- Artiom Troyanovsky,414550
+Chenming Qin,406001
+Anne de Weerdt,412029
+Artiom Troyanovsky,414550
 Cynthia Yang, 405574
 
 Group 8X
@@ -188,7 +189,6 @@ Group 9X
 Charisis Mitsis, 411217
 Emma Chow,  369561 
 Manish Bundhun, 411151
-Lisa Eline Swinkels, 415276
 
 Group 10X
 Jasper Kousen, 414039
