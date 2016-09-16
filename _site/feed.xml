@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andreas Pick</title>
+    <description></description>
+    <link>http://people.few.eur.nl/pick//</link>
+    <atom:link href="http://people.few.eur.nl/pick//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 16 Sep 2016 10:39:58 +0200</pubDate>
+    <lastBuildDate>Fri, 16 Sep 2016 10:39:58 +0200</lastBuildDate>
+    <generator>Jekyll v3.2.0</generator>
+    
+      <item>
+        <title>Financial cycles</title>
+        <description>&lt;p&gt;&lt;em&gt;Disclaimer: This post (like all others) represents my opinion alone and should not be attributed to De Nederlandsche Bank, the Eurosystem or, indeed, anyone else.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt; Financial cycles, the way they are commonly defined, do not exist separately from the business cycle. Evidence for separate credit cycles is artificially constructed via a stock-flow mismatch.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+An increasing number of papers are appearing on the topic of financial cycles, including the papers presented at a &lt;a href=&quot;https://www.dnb.nl/en/onderzoek-2/test-conferences/other-conferences/conferences/dnb345842.jsp&quot;&gt;DNB workshop&lt;/a&gt; I attended recently. In the papers of this workshop, financial cycles were defined as cycles in outstanding credit to the non-financial sector. The assumption is that credit cycles are distinct from business cycle as defined via GDP and that these different cycles are interesting to understand from a policy point of view.&lt;/p&gt;
+
+&lt;p&gt;As an example of what this might look like consider the graph below that plots consumption and investment (C+I) growth together with credit growth for the US.  I use consumption and investment growth as the credit plotted in the graph (and used in the papers of the workshop) is to the private, non-financial sector only.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/pics/credit_growth.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Notice that in the early and late 1970s and the mid 1980s credit growth does not seem to be synchronized with C+I growth. The most recent event where this divergence appeared was the
+recovery from the financial crisis in 2009. C+I growth recovers relatively swiftly but credit growth has the trough only a few quarters later. This led Calvo and Loo-Kung to call the US recovery a “Phoenix miracle” in a &lt;a href=&quot;http://voxeu.org/article/us-recovery-new-phoenix-miracle&quot;&gt;VOX EU column&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;However, there is a major problem with the graph above:
+consumption and investment are flow variables and credit is a stock variable;
+comparing them is a stock-flow mismatch. This means that in the above graph the expenditures in a
+given period are compared to the credit that firms and households have taken out in the past (and not repaid yet). However, it is fairly intuitive that expenditures in a given period are most closely related to borrowing of that period.
+Together with Mike Biggs and Thomas Mayer, I discussed this problem in the context
+of credit-less recoveries (&lt;a href=&quot;http://ssrn.com/abstract=1595980&quot;&gt;Biggs et al., 2010&lt;/a&gt;); a more
+concise explanation of the issue is available in our &lt;a href=&quot;http://www.voxeu.org/index.php?q=node/5038&quot;&gt;VOX EU column&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In place of the stock of credit, compare C+I to the flow of credit, that is, to the net new borrowing in each period (below I write how we approximate this).
+In the graph below are C+I growth and the growth of the flow of credit, which &lt;a href=&quot;http://ssrn.com/abstract=1595980&quot;&gt;Biggs et al. (2010)&lt;/a&gt; call
+the &lt;em&gt;credit impulse&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/pics/credit_impulse.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It is clear that all the anomalies that appeared in the previous graph are now gone.
+The recovery from the financial crisis  in 2009 are equally fast for C+I as for the flow of credit.&lt;/p&gt;
+
+&lt;p&gt;An important insight from the credit impulse is that economies can recover while they are deleveraging. The logic is simple: Assume your income is fixed at 100, and that you have to repay 10 units of currency in one period and 5 units in the next. In both periods, you are deleveraging but your consumption in the second period will be 5 units larger than in the first: consumption growth will be positive. This occurs while credit is still
+shrinking (you are repaying 5) but the flow of credit has increased from -10 to -5.&lt;/p&gt;
+
+&lt;p&gt;How, then, did so many economist fall for a stock-flow mismatch?&lt;/p&gt;
+
+&lt;p&gt;My best guess, based on the presentations in the workshop, is the following. Assume that firms borrow to invest, pay interest r on existing credit, and investment is a fixed proportion of GDP.
+Then&lt;/p&gt;
+
+&lt;p&gt;(1)        C(t) = (1+r) C(t-1) + I = (1+r) C(t-1) + g*Y&lt;/p&gt;
+
+&lt;p&gt;where C is the stock of credit, I is investment, Y is GDP, r is the interest rate, g is a constant,
+and t denotes discrete time.
+(And despite the notation, this is in discrete time – clearly, I need to get mathjax up and running.)&lt;/p&gt;
+
+&lt;p&gt;There is an equilibrium relationship between GDP and credit, which is&lt;/p&gt;
+
+&lt;p&gt;(2)          C = b*Y&lt;/p&gt;
+
+&lt;p&gt;where b is a constant that is comprised of the deeper parameters of the economy.
+Hence, in equilibrium, the stock of credit and the flow of GDP are related.
+&lt;a href=&quot;http://www.suomenpankki.fi/en/julkaisut/tutkimukset/keskustelualoitteet/Pages/dp2016_03.aspx&quot;&gt;Drehmann and Juselius (2016, Bank of Finland WP)&lt;/a&gt; derive a similar equilibrium relationship (in a more elaborate model). They then assume that this equilibrium holds at all times except for
+a disturbance term.&lt;/p&gt;
+
+&lt;p&gt;However, it is clear that&lt;/p&gt;
+
+&lt;p&gt;(3)         C(t) = b*Y(t) + e(t)&lt;/p&gt;
+
+&lt;p&gt;behaves fundamentally different from the dynamics in equation (1) from which
+the equilibrium was derived.
+As Brainard and Tobin (1968, AER, p.105) wrote:&lt;/p&gt;
+
+&lt;p&gt;“No one seriously believes that either the economy as a whole or its financial
+subsector is continuously in an equilibrium. Equations like those of the model
+described above do not hold every moment in time. […] There are, of course,
+identities–e.g. balance sheet or income identities–that apply out of equilibrium
+as well.”&lt;/p&gt;
+
+&lt;p&gt;For the description of financial crises and recoveries it should be clear that the
+equilibrium is not a good description of the economy but that the credit identity will hold in each
+period. Rewriting equation (1) yields&lt;/p&gt;
+
+&lt;p&gt;(4)          C(t) - (1-r) C(t-1) = g*Y&lt;/p&gt;
+
+&lt;p&gt;that is, domestic, private demand is related to the net &lt;em&gt;flow&lt;/em&gt; of credit. A complication
+is that the interest rates that are used for private credit is generally not
+observed. It could be approximated by a 10 year corporate bond rate or a similar interest rate. In the graph above, I approximated the net flow by the difference of credit as I found in previous work that this yields a reasonably good approximation as long as interest rates are not too high.&lt;/p&gt;
+
+&lt;p&gt;In conclusion, I hope that it has become clear that credit cycles that are
+distinct from the business cycle do not exist, that they should not be artificially
+constructed via stock-flow mismatches, and that analyzing stock-flow mismatch relations
+cannot lead to valid insights.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Sep 2016 12:30:00 +0200</pubDate>
+        <link>http://people.few.eur.nl/pick//research/2016/09/15/Financial_cycles.html</link>
+        <guid isPermaLink="true">http://people.few.eur.nl/pick//research/2016/09/15/Financial_cycles.html</guid>
+        
+        
+        <category>research</category>
+        
+      </item>
+    
+      <item>
+        <title>Empirics of financial contagion</title>
+        <description>&lt;p&gt;Recently, I attended the &lt;a href=&quot;http://www.syrto-amsterdam2015.org/&quot;&gt;SYRTO&lt;/a&gt; conferences in Amsterdam, which contained two days worth of presentations on financial contagion and systemic risk. The conference demonstrated how much progress has been made on these topics but also highlighted the challenges that the empirical literature on financial contagion still faces.&lt;/p&gt;
+
+&lt;h1 id=&quot;financial-contagion&quot;&gt;Financial contagion&lt;/h1&gt;
+
+&lt;p&gt;Contagion, the spread of a financial crisis from one country or market to another, is a causal concept. This implies a number of econometric challenges that I discussed in a &lt;a href=&quot;/research.html#JEDCcontagion&quot;&gt;paper&lt;/a&gt; with Hashem Pesaran in 2007. Many papers in this literature start with the statement that no unique (empirical) definition of financial contagion exists. Yet, this ignores the fact that politicians have a clear definition in mind when they talk about financial contagion: a crisis in one country, e.g. Ireland, causes a crisis in another, e.g. Italy.&lt;/p&gt;
+
+&lt;p&gt;The question of causality is important for economic policy. If there is a causal effect from a sovereign debt crisis in Ireland to a sovereign debt crisis in Italy, then a bail-out of Ireland could stop the domino effect. If Ireland and Italy were affected by a common factor, then a bail-out of one country will have no effect on the second country. During the European sovereign debt crisis, politicians justified bail-outs with arguments of financial contagion (e.g. Josef Pröll’s quote reported in the &lt;a href=&quot;http://www.irishtimes.com/business/economy/europe/intervention-inevitable-as-state-faces-pressure-to-agree-aid-deal-1.678160&quot;&gt;Irish Times&lt;/a&gt;). Yet, as far as I am aware, there is no firm evidence in the literature for or against the existence of contagion. And this may not come as a surprise, given that establishing causality in financial data is generally no easy task.&lt;/p&gt;
+
+&lt;h1 id=&quot;pearsons-rho-vs-kendalls-tau&quot;&gt;Pearson’s rho vs. Kendall’s tau&lt;/h1&gt;
+
+&lt;p&gt;A short post-script to my discussion of the paper by Arakelian et al. at the SYRTO conference. The paper uses Kendall’s tau to measure contagion because it assumes non-elliptic distributions. While this ignores the issue of causality described above, it might address the shortcoming of Pearson’s rho, which has been discussed by Forbes and Rigobon in their 2002 JF paper. In short, Forbes and Rigobon show that changes in correlations can be just as much caused by increases in volatility as by contagion.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, the same is true for Kendall’s tau. In a miniature Monte Carlo experiment,  I generated data from a linear model with normally distributed errors: first with a change in the regression coefficient, which represents financial contagion, and, second, with a change in the volatility. The plots below contain estimates of Pearson’s rho and Kendall’s tau from rolling windows. In the first plot, the coefficient linking one variable (think financial market) to the other changes at period 40, which you can think of as contagion. In the second plot, the coefficient remains the same so that there is no contagion but the volatility changes. As expected, Pearson’s rho looks essentially identical in the two plots, so it cannot distinguish between the two — but neither can Kendall’s tau.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/pics/rho_tau_contagion.png&quot; style=&quot;width:45%; height:45%;&quot; /&gt;
+&lt;img src=&quot;/pics/rho_tau_volChange.png&quot; style=&quot;width:45%; height:45%;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;financial-networks&quot;&gt;Financial networks&lt;/h1&gt;
+
+&lt;p&gt;Another approach with a slightly different aim may offer some hope. This approach analyses the network that financial institutions span. These papers, including &lt;a href=&quot;http://www.syrto-amsterdam2015.org/papers/11_vdLeij_et_al.pdf&quot;&gt;that presented by Marco van der Leij&lt;/a&gt; at the SYRTO conference, do not attempt to establish contagion in the sense outlined above. Rather they investigate the relevance of individual institutions within the financial network. If such an analysis could be extended to multiple countries then we might be able to address the question of contagion.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 30 Jun 2015 22:40:51 +0200</pubDate>
+        <link>http://people.few.eur.nl/pick//research/2015/06/30/Empirical_financial_contagion.html</link>
+        <guid isPermaLink="true">http://people.few.eur.nl/pick//research/2015/06/30/Empirical_financial_contagion.html</guid>
+        
+        
+        <category>research</category>
+        
+      </item>
+    
+      <item>
+        <title>Forecasting with Markov switching models</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/pics/weights.png&quot; style=&quot;float:right;margin:0 0 5px 5px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Forecasts from Markov switching models have, by and large, disappointed. In a recent paper with Tom Boot, we investigated this issue.&lt;/p&gt;
+
+&lt;p&gt;Our starting point is the observation that, conditional on the states, standard Markov switching forecasts do not use all data. This cannot be optimal. Instead, our approach uses all data and weights them such that our forecast loss function is optimised. In this paper, we use the mean square forecast error (MSFE) and derive weights such that the MSFE is minimised.&lt;/p&gt;
+
+&lt;p&gt;This work is based on &lt;a href=&quot;/research.html#OptimalWeights&quot;&gt;previous results for break point models&lt;/a&gt;, where the weights are based on the DGP and estimates of parameters are plugged in to make them operational. In that case, using a plug-in version of the weights lead to forecasts that have an MSFE similar to standard forecasts. Markov switching models allow us to address this point.&lt;/p&gt;
+
+&lt;p&gt;The results are quite informative.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Incorporating uncertainty around the states in the derivation of the optimal weights, improves forecasts dramatically – and this is even true asymptotically.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The common finding that Markov switching models have nice in-sample properties but do poorly out-of-sample is largely based on the selection of the forecast evaluation period. In the paper, we show that, in a symmetric three state Markow switching model, the linear model (i.e. without Markov switching) will be the optimal model for forecasting in the middle regime.
+In empirical forecast evaluations of Markov switching models, the typical forecasting period has been dominated by the great moderation. This is precisely the middle regime where the optimal forecast from the Markov switching model is the same as the forecast from the linear model.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The paper is on my &lt;a href=&quot;/research.html#MarkovSwitching&quot;&gt;research page&lt;/a&gt; or download the latest
+&lt;a href=&quot;/papers/Boot_Pick_2015_Optimal_Weights.pdf&quot;&gt;pdf file&lt;/a&gt; directly.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 May 2015 12:39:50 +0200</pubDate>
+        <link>http://people.few.eur.nl/pick//research/2015/05/05/Optimal_forecasts_MS_models.html</link>
+        <guid isPermaLink="true">http://people.few.eur.nl/pick//research/2015/05/05/Optimal_forecasts_MS_models.html</guid>
+        
+        
+        <category>research</category>
+        
+      </item>
+    
+      <item>
+        <title>Website redesign</title>
+        <description>&lt;p&gt;Here we go: new web site. It’s now largely written in markdown and rendered with &lt;a href=&quot;http://www.jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;. The page is on &lt;a href=&quot;http://www.github.com&quot;&gt;GitHub&lt;/a&gt;. These changes allow me to include a blog with informative posts such as this one. So, dear reader, brace yourself.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 May 2015 18:45:50 +0200</pubDate>
+        <link>http://people.few.eur.nl/pick//self-referential/2015/05/04/move_to_jekyll.html</link>
+        <guid isPermaLink="true">http://people.few.eur.nl/pick//self-referential/2015/05/04/move_to_jekyll.html</guid>
+        
+        
+        <category>self-referential</category>
+        
+      </item>
+    
+  </channel>
+</rss>

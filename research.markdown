@@ -12,8 +12,8 @@ Working Papers
 
 <a name="MarkovSwitching"></a>
 
-* Tom Boot and Andreas Pick (2015)
-"[Optimal forecasts from Markov switching models](/papers/Boot_Pick_2015_Optimal_Weights.pdf)"
+* Tom Boot and Andreas Pick  (2016)  
+A near optimal test for structural breaks when forecasting under square error loss
 
 * Michael Biggs, Thomas Mayer and Andreas Pick (2010)
 "Credit and economic recovery: Demystifying Phoenix Miracles" [SSRN](http://ssrn.com/abstract=1595980)   
@@ -25,6 +25,10 @@ The paper has been discussed on [Econbrowser](http://www.econbrowser.com/archive
 
 Journal Articles
 ----------------
+
+* Tom Boot and Andreas Pick (forthcoming)
+"[Optimal forecasts from Markov switching models](http://dx.doi.org/10.1080/07350015.2016.1219264)" *Journal of Business & Economic Statistics*  
+[Working paper version](/papers/Boot_Pick_2016_Optimal_forecasts_Markov_switching.pdf), [Online appendix](/papers/Boot_Pick_2016_JBES_online_appendix.pdf)
 
 * Agnieszka Markiewicz and Andreas Pick (2014)
 "[Adaptive learning and survey expectations](http://dx.doi.org/10.1016/j.jebo.2014.04.005)" *Journal of Economic Behavior & Organization* 107(B) 684-707  
@@ -56,7 +60,7 @@ Journal Articles
 
 * Hashem Pesaran and Andreas Pick (2007)
 "[Econometric issues in the analysis of contagion](http://dx.doi.org/10.1016/j.jedc.2006.03.008)" *Journal of Economic Dynamics & Control*, 31(4) 1245-1277  
-[Working paper version](/papers/PesaranPickContagion.pdf) 
+[Working paper version](/papers/PesaranPickContagion.pdf)
 
 * Don Egginton, Andreas Pick and Shaun Vahey (2002)
 "['Keep it real!': a real-time UK macro data set](http://dx.doi.org/10.1016/S0165-1765(02)00094-0)" *Economics Letters*, 77(1) 15-20  
@@ -72,4 +76,4 @@ Other Publications
 "The myth of the credit-less recovery" Deutsche Securities: Global Macro Issues
 
 * Andreas Pick and Myrvin Anthony (2006)
-"A simulation model for the analysis of the UK's sovereign debt strategy" DMO Research Paper 
+"A simulation model for the analysis of the UK's sovereign debt strategy" DMO Research Paper
