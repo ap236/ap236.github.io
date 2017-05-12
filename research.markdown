@@ -12,7 +12,7 @@ Working Papers
 
 <a name="MarkovSwitching"></a>
 
-* Tom Boot and Andreas Pick  (2016)  
+* Tom Boot and Andreas Pick  (2017)  
 A near optimal test for structural breaks when forecasting under square error loss
 
 * Michael Biggs, Thomas Mayer and Andreas Pick (2010)
