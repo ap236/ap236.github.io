@@ -13,7 +13,7 @@ Working Papers
 <a name="MarkovSwitching"></a>
 
 * Tom Boot and Andreas Pick  (2017)  
-[A near optimal test for structural breaks when forecasting under square error loss](/papers/Boot_Pick_Break_Test_11_May_2017.pdf)
+[A near optimal test for structural breaks when forecasting under square error loss](/papers/Boot_Pick_Break_Test_12_May_2017.pdf)
 
 * Michael Biggs, Thomas Mayer and Andreas Pick (2010)
 "Credit and economic recovery: Demystifying Phoenix Miracles" [SSRN](http://ssrn.com/abstract=1595980)   
