@@ -5,18 +5,45 @@
     <description></description>
     <link>http://people.few.eur.nl/pick//</link>
     <atom:link href="http://people.few.eur.nl/pick//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 May 2017 14:29:51 +0200</pubDate>
-    <lastBuildDate>Fri, 12 May 2017 14:29:51 +0200</lastBuildDate>
+    <pubDate>Sun, 21 May 2017 21:06:46 +0200</pubDate>
+    <lastBuildDate>Sun, 21 May 2017 21:06:46 +0200</lastBuildDate>
     <generator>Jekyll v3.2.0</generator>
+    
+      <item>
+        <title>Do structural breaks matter when forecasting?</title>
+        <description>&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt; Should you worry about structural breaks when forecasting? Probably not as much as you think. And if you do, you can test for the importance of a structural break for your forecast using a new test.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Structural breaks have been pinpointed as one of the culprits for forecast failures in the past. In a well-known article, Stock and Watson (1996, JBES) point out that a wide range of U.S. macroeconomic time series suffer from structural breaks. However, they also found that modeling the breaks does not appear to lead to substantial improvements in forecast accuracy as measured by the mean square forecast error. They conclude that “statistically significant parameter variation might be only marginally significant from a forecasting perspective”. However, the latter has never been investigated formally even if the existence of breaks kept forecasters worried.&lt;/p&gt;
+
+&lt;p&gt;A &lt;a href=&quot;/papers/Boot_Pick_Break_Test_12_May_2017.pdf&quot;&gt;new paper&lt;/a&gt; with Tom Boot remedies the situation. We develop a new test to assess whether the forecast from a model that takes a potential structural break in the estimation sample into account is more precise than that from a model that ignores breaks. Along the way, we establish that a structural break that should be modeled to improve forecast accuracy is very large. The graph below, which is from the paper with Tom, shows the minimum size of a break at which modeling it makes forecasts more precise. The size depends on the time of the break, which, as a proportion of the sample size, is on the x-axis. For example, 0.2 means that the break occurs after the first 20% of the observations. On the y-axis is the magnitude of the break of the forecast model standardized by the variance of the model. The graph therefore suggests that a break that is early in the sample will need to be three standard deviations of the distribution of the forecast model before one would want to model it. This break magnitude decreases as the break appears later in the sample but stays above one standard deviation.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;/pics/BreakSize.png&quot; width=&quot;75%&quot; /&gt;&lt;/center&gt;
+
+&lt;p&gt;How likely is it to encounter such a break? In the paper, we use the 130 time series in the &lt;a href=&quot;https://research.stlouisfed.org/econ/mccracken/fred-databases/&quot;&gt;FRED-MD data base&lt;/a&gt; and check for structural breaks in rolling windows of 10 years length. The graph below (also from the paper with Tom) shows the frequency of detecting a break for each series (sorted into eight categories and within each category by number of breaks) over the different rolling windows using the test of Andrews (1993, Econometrica), which is an in-sample test of parameter variation, as dashed lines and our test as solid lines. It is clear that Stock and Watson’s hunch is correct: Andrews’ test of parameter variation finds many more breaks across all series than our test of significance from a forecast perspective.&lt;/p&gt;
+
+&lt;center&gt;&lt;img src=&quot;/pics/NumberBreaks.png&quot; width=&quot;75%&quot; /&gt;&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;
+The eagle-eyed may have spotted additional dashed lines below the solid lines. These represents a variant of our test. But it is clear that, compared to Andrews’ test, the difference between our two variants is minimal.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 May 2017 17:32:00 +0200</pubDate>
+        <link>http://people.few.eur.nl/pick//research/2017/05/21/Breaks_and_forecasting.html</link>
+        <guid isPermaLink="true">http://people.few.eur.nl/pick//research/2017/05/21/Breaks_and_forecasting.html</guid>
+        
+        
+        <category>research</category>
+        
+      </item>
     
       <item>
         <title>Dutch bank lending is growing just fine</title>
         <description>&lt;p&gt;&lt;em&gt;Disclaimer: This post (like all others) represents my opinion alone and should not be attributed to De Nederlandsche Bank, the Eurosystem or, indeed, anyone else.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt; An article in the Financieele Dagblad claims that Dutch bank lending growth does not seem to be in line with economic growth in the Netherlands. This observation is based on a stock-flow mismatch. In the absense of this mistake, the conclusion is reversed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt; An article in the Financieele Dagblad claims that Dutch bank lending growth does not seem to be in line with economic growth in the Netherlands. This observation is based on a stock-flow mismatch. If one corrects this mistake, the conclusion gets reversed.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
-In a recent article in the &lt;a href=&quot;https://fd.nl/economie-politiek/1200723/als-het-zo-goed-gaat-met-de-nederlandse-economie-waarom-groeit-de-kredietverlening-dan-nog-niet&quot;&gt;Financieele Dagblad&lt;/a&gt;, Mathijs Bouman asks “If it is going so well with the Dutch economy why does lending not grow, yet?” (All quotes are my translations from the Dutch.) His evidence is the graph below (replicated from the same data used by Bouman, which is available at &lt;a href=&quot;https://www.dnb.nl/binaries/gmon2n_tcm46-330501.xls&quot;&gt;DNB’s website&lt;/a&gt;), which plots the growth rate of bank credit to Dutch firms over time.&lt;/p&gt;
+In a recent article in the &lt;a href=&quot;https://fd.nl/economie-politiek/1200723/als-het-zo-goed-gaat-met-de-nederlandse-economie-waarom-groeit-de-kredietverlening-dan-nog-niet&quot;&gt;Financieele Dagblad&lt;/a&gt;, Mathijs Bouman asks “If it is going so well with the Dutch economy why is lending not growing, yet?” (All quotes are my translations from the Dutch.) His evidence is the graph below (replicated from the same data used by Bouman, which is available at &lt;a href=&quot;https://www.dnb.nl/binaries/gmon2n_tcm46-330501.xls&quot;&gt;DNB’s website&lt;/a&gt;), which plots the growth rate of bank credit to Dutch firms over time.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/pics/CreditGrowthNL.png&quot; /&gt;&lt;/p&gt;
 
@@ -33,13 +60,11 @@ In a recent article in the &lt;a href=&quot;https://fd.nl/economie-politiek/1200
 &lt;p&gt;Unfortunately, using the growth of credit stock in place of the credit impulse appears to be a very common mistake. It underlies the idea of credit cycles, that I wrote about in a previous blog entry, and it is the source of the literature on Phoenix miracles that I addressed with Mike Biggs and Thomas Mayer in &lt;a href=&quot;http://ssrn.com/abstract=159598&quot;&gt;this paper&lt;/a&gt;. Milton Friedman asked in 1992 if old fallacies ever died. Maybe they do live forever.&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 May 2017 12:30:00 +0200</pubDate>
-        <link>http://people.few.eur.nl/pick//general/interest/2017/05/11/Understanding_credit.html</link>
-        <guid isPermaLink="true">http://people.few.eur.nl/pick//general/interest/2017/05/11/Understanding_credit.html</guid>
+        <link>http://people.few.eur.nl/pick//general-interest/2017/05/11/Understanding_credit.html</link>
+        <guid isPermaLink="true">http://people.few.eur.nl/pick//general-interest/2017/05/11/Understanding_credit.html</guid>
         
         
-        <category>general</category>
-        
-        <category>interest</category>
+        <category>general-interest</category>
         
       </item>
     

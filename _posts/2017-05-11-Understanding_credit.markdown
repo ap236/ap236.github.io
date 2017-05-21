@@ -2,15 +2,15 @@
 layout: post
 title:  Dutch bank lending is growing just fine
 date:   2017-05-11 10:30:00
-categories: general interest
+categories: general-interest
 ---
 
 *Disclaimer: This post (like all others) represents my opinion alone and should not be attributed to De Nederlandsche Bank, the Eurosystem or, indeed, anyone else.*
 
-**tl;dr** An article in the Financieele Dagblad claims that Dutch bank lending growth does not seem to be in line with economic growth in the Netherlands. This observation is based on a stock-flow mismatch. In the absense of this mistake, the conclusion is reversed.
+**tl;dr** An article in the Financieele Dagblad claims that Dutch bank lending growth does not seem to be in line with economic growth in the Netherlands. This observation is based on a stock-flow mismatch. If one corrects this mistake, the conclusion gets reversed.
 
 <br>
-In a recent article in the [Financieele Dagblad](https://fd.nl/economie-politiek/1200723/als-het-zo-goed-gaat-met-de-nederlandse-economie-waarom-groeit-de-kredietverlening-dan-nog-niet), Mathijs Bouman asks "If it is going so well with the Dutch economy why does lending not grow, yet?" (All quotes are my translations from the Dutch.) His evidence is the graph below (replicated from the same data used by Bouman, which is available at [DNB's website](https://www.dnb.nl/binaries/gmon2n_tcm46-330501.xls)), which plots the growth rate of bank credit to Dutch firms over time.
+In a recent article in the [Financieele Dagblad](https://fd.nl/economie-politiek/1200723/als-het-zo-goed-gaat-met-de-nederlandse-economie-waarom-groeit-de-kredietverlening-dan-nog-niet), Mathijs Bouman asks "If it is going so well with the Dutch economy why is lending not growing, yet?" (All quotes are my translations from the Dutch.) His evidence is the graph below (replicated from the same data used by Bouman, which is available at [DNB's website](https://www.dnb.nl/binaries/gmon2n_tcm46-330501.xls)), which plots the growth rate of bank credit to Dutch firms over time.
 
 <img src="/pics/CreditGrowthNL.png">
 
