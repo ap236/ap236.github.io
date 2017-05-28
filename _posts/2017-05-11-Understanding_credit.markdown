@@ -2,7 +2,7 @@
 layout: post
 title:  Dutch bank lending is growing just fine
 date:   2017-05-11 10:30:00
-categories: general-interest
+categories: general interest
 ---
 
 *Disclaimer: This post (like all others) represents my opinion alone and should not be attributed to De Nederlandsche Bank, the Eurosystem or, indeed, anyone else.*
