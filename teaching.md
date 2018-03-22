@@ -3,6 +3,10 @@ layout: page
 title: Teaching
 ---
 
+MPhil (1st year core course): [TI1705 Advanced Econometrics 2](https://courses.eur.nl/#/2017-2018/detail/TI152)
+
+MPhil (2nd year field course): [TI153 Applied Macroeconometrics](https://courses.eur.nl/#/2017-2018/detail/ti153)
+
 MSc (Econometrics): [FEM21031 Masters Thesis Supervision](https://courses.eur.nl/#/2016-2017/detail/FEM21031)
 
 MSc (Economics): [FEM11090 Applied Econometrics](https://courses.eur.nl/#/2015-2016/detail/FEM11090) (2014-2015)
