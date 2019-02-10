@@ -1,9 +1,9 @@
 # Site settings
 title: Andreas Pick
-email: pick@ese.eur.nl
+email: andreas.pick@cantab.net
 office: Department of Econometrics, H11-20
 address: PO Box 1738, NL-3000 DR Rotterdam
-#telephone: 
+#telephone:
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://people.few.eur.nl/pick/" # the base hostname & protocol for your site
 twitter_username: "@apickeu"
@@ -23,6 +23,6 @@ defaults:
   -
     scope:
       path: "" # empty string means applies to all files
-      # type: "pages" 
+      # type: "pages"
     values:
       layout: "default" # shouldn't change anythine.g. g

@@ -7,11 +7,16 @@ I am an Associate Professor at the Econometric Institute of the [Erasmus School 
 
 Before joining Erasmus and DNB, I was a post-doc at the [Economics Faculty](http://www.econ.cam.ac.uk) in Cambridge and an Economist at the [UK Debt Management Office](http://www.dmo.gov.uk).  I have a PhD from the [University of Cambridge](http://www.cam.ac.uk) and an undergrad degree from [Humboldt University Berlin](http://www.wiwi.hu-berlin.de).
 
+*The long shadow of GDPR*:\\
+For ESE specific emails: [pick@ese.eur.nl](mailto:pick@ese.eur.nl)\\
+For TI specific emails: [dgs@tinbergen.nl](mailto:dgs@tinbergen.nl)\\
+All other emails: [andreas.pick@cantab.net](mailto:andreas.pick@cantab.net)
+
 *Office Address*:  
 Department of Econometrics  
 Erasmus School of Economics, PO Box 1738  
 3000 DR Rotterdam, the Netherlands  
-Office: H11-20  
+Office: ET-40  
 Tel.: +31 (0)10 408 2819
 
 <br />
