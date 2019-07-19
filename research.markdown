@@ -14,8 +14,6 @@ Working Papers
 
 * Andreas Pick and Matthijs Carpay (2018) "[Multi-step forecasts with large vector autoregressions](/papers/PickCarpay1July2018.pdf)"
 
-* Tom Boot and Andreas Pick  (2018) "[Does modeling a structural break improve forecast accuracy?](/papers/Boot_Pick_Break_Test_22_August_2018.pdf)"
-
 * Michael Biggs, Thomas Mayer and Andreas Pick (2010)
 "Credit and economic recovery: Demystifying Phoenix Miracles" [SSRN](http://ssrn.com/abstract=1595980)   
 The paper has been discussed by [Econbrowser](http://www.econbrowser.com/archives/2009/09/credit_stock_gr_1.html), [Handelsblatt](http://www.handelsblatt.com/politik/nachrichten/was-hinter-dem-kreditlosen-aufschwung-steckt;2471679), and [Business Spectator](http://www.businessspectator.com.au/bs.nsf/Article/economy-employment-debt-recession-America-pd20101018-AC9EN?OpenDocument&src=rot).
@@ -26,6 +24,8 @@ The paper has been discussed by [Econbrowser](http://www.econbrowser.com/archive
 
 Journal Articles
 ----------------
+
+* Tom Boot and Andreas Pick  (2019) "[Does modeling a structural break improve forecast accuracy?](/papers/Boot_Pick_2019.pdf)" *Journal of Econometrics* (forthcoming), [Online appendix](/papers/Boot_Pick_2019_Online_Appendix.pdf)
 
 * Tom Boot and Andreas Pick (2018)
 "[Optimal forecasts from Markov switching models](http://dx.doi.org/10.1080/07350015.2016.1219264)" *Journal of Business & Economic Statistics* 36(4) 628--642
