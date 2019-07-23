@@ -25,7 +25,7 @@ The paper has been discussed by [Econbrowser](http://www.econbrowser.com/archive
 Journal Articles
 ----------------
 
-* Tom Boot and Andreas Pick  (2019) "[Does modeling a structural break improve forecast accuracy?](/papers/Boot_Pick_2019.pdf)" *Journal of Econometrics* (forthcoming), [Online appendix](/papers/Boot_Pick_2019_Online_Appendix.pdf)
+* Tom Boot and Andreas Pick  (2019) "[Does modeling a structural break improve forecast accuracy?](/papers/Boot Pick 2019 Break Test.pdf)" *Journal of Econometrics* (forthcoming), [Online appendix](/papers/Boot Pick 2019 Online Appendix.pdf)
 
 * Tom Boot and Andreas Pick (2018)
 "[Optimal forecasts from Markov switching models](http://dx.doi.org/10.1080/07350015.2016.1219264)" *Journal of Business & Economic Statistics* 36(4) 628--642
