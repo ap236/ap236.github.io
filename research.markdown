@@ -7,17 +7,6 @@ Editor
 ------
 [Government Debt Management](http://www.hstalks.com/main/browse_talks.php?father_id=342&c=250), (2009) Henry Stewart Talks
 
-Working Papers
---------------
-* Andreas Pick and Matthijs Carpay (2019) "[Multi-step forecasting with large vector autoregressions](/papers/PickCarpayDec2019.pdf)"
-
-* Michael Biggs, Thomas Mayer and Andreas Pick (2010)
-"Credit and economic recovery: Demystifying Phoenix Miracles" [SSRN](http://ssrn.com/abstract=1595980)   
-The paper has been discussed by [Econbrowser](http://www.econbrowser.com/archives/2009/09/credit_stock_gr_1.html), [Handelsblatt](http://www.handelsblatt.com/politik/nachrichten/was-hinter-dem-kreditlosen-aufschwung-steckt;2471679), and [Business Spectator](http://www.businessspectator.com.au/bs.nsf/Article/economy-employment-debt-recession-America-pd20101018-AC9EN?OpenDocument&src=rot).
-
-* Andreas Pick (2007)
-"Financial contagion and tests using instrumental variables" [DNB Working Paper 139](http://www.dnb.nl/binaries/Working%20Paper%20139-2007_tcm46-156155.pdf)
-
 
 Journal Articles
 ----------------
@@ -79,3 +68,14 @@ Other Publications
 
 * Andreas Pick and Myrvin Anthony (2006)
 "A simulation model for the analysis of the UK's sovereign debt strategy" DMO Research Paper
+
+Working Papers
+--------------
+* Andreas Pick and Matthijs Carpay (2019) "[Multi-step forecasting with large vector autoregressions](/papers/PickCarpayDec2019.pdf)"
+
+* Michael Biggs, Thomas Mayer and Andreas Pick (2010)
+"Credit and economic recovery: Demystifying Phoenix Miracles" [SSRN](http://ssrn.com/abstract=1595980)   
+The paper has been discussed by [Econbrowser](http://www.econbrowser.com/archives/2009/09/credit_stock_gr_1.html), [Handelsblatt](http://www.handelsblatt.com/politik/nachrichten/was-hinter-dem-kreditlosen-aufschwung-steckt;2471679), and [Business Spectator](http://www.businessspectator.com.au/bs.nsf/Article/economy-employment-debt-recession-America-pd20101018-AC9EN?OpenDocument&src=rot).
+
+* Andreas Pick (2007)
+"Financial contagion and tests using instrumental variables" [DNB Working Paper 139](http://www.dnb.nl/binaries/Working%20Paper%20139-2007_tcm46-156155.pdf)
