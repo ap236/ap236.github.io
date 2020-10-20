@@ -11,14 +11,14 @@ Editor
 Journal Articles
 ----------------
 
-* Tom Boot and Andreas Pick  (2019) "[Does modeling a structural break improve forecast accuracy?](/papers/Boot Pick 2019 Break Test.pdf)" *Journal of Econometrics* (forthcoming),
-[Online appendix](/papers/Boot Pick 2019 Online Appendix.pdf)
+* Tom Boot and Andreas Pick  (2020) "[Does modeling a structural break improve forecast accuracy?](https://doi.org/10.1016/j.jeconom.2019.07.007)" *Journal of Econometrics* 215(1) 35--59  
+[Working paper version](/papers/Boot_Pick_2019_Break_Test.pdf), [Online appendix](/papers/Boot_Pick_2019_Online_Appendix.pdf)
 
 
 <a name="MarkovSwitching"></a>
 
 * Tom Boot and Andreas Pick (2018)
-"[Optimal forecasts from Markov switching models](http://dx.doi.org/10.1080/07350015.2016.1219264)" *Journal of Business & Economic Statistics* 36(4) 628--642
+"[Optimal forecasts from Markov switching models](http://dx.doi.org/10.1080/07350015.2016.1219264)" *Journal of Business & Economic Statistics* 36(4) 628--642  
 [Working paper version](/papers/Boot_Pick_2016_Optimal_forecasts_Markov_switching.pdf), [Online appendix](/papers/Boot_Pick_2016_JBES_online_appendix.pdf)
 
 * Agnieszka Markiewicz and Andreas Pick (2014)

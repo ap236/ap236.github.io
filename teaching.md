@@ -3,22 +3,24 @@ layout: page
 title: Teaching
 ---
 
-MPhil (1st year core course): [TI1705 Advanced Econometrics 2](https://courses.eur.nl/#/2017-2018/detail/TI152)
+MRes(1st year core course): TI1705 Advanced Econometrics 2
 
-MPhil (2nd year field course): [TI153 Applied Macroeconometrics](https://courses.eur.nl/#/2017-2018/detail/ti153)
+MRes (2nd year field course): TI153 Applied Macroeconometrics
 
-MSc (Econometrics): [FEM21031 Masters Thesis Supervision](https://courses.eur.nl/#/2016-2017/detail/FEM21031)
+MRes (2nd year course): TI197 Academic Writing
 
-MSc (Economics): [FEM11090 Applied Econometrics](https://courses.eur.nl/#/2015-2016/detail/FEM11090) (2014-2015)
+MSc (Econometrics): FEM21031 Masters Thesis Supervision
 
-MSc (Econometrics): [FEM21022 Seminar Case Studies in Applied Econometrics](https://courses.eur.nl/#/2015-2016/detail/FEM21022) (2013-2015)
+MSc (Economics): FEM11090 Applied Econometrics (2014-2015)
 
-BA (Econometrics) 2: [FEB22003 Voortgezette Statistiek](https://courses.eur.nl/#/2014-2015/detail/FEB22003) (2010-2015)
+MSc (Econometrics): FEM21022 Seminar Case Studies in Applied Econometrics (2013-2015)
 
-BA (Econometrics) 2: [FEB22003X Advanced Statistics](https://courses.eur.nl/#/2014-2015/detail/FEB22003X) (2010-2015)
+BA (Econometrics) 2: FEB22003 Voortgezette Statistiek (2010-2015)
 
-BA (Econometrics) 2: [FEB22009 Basiswerkcollege Case Studies](https://courses.eur.nl/#/2014-2015/detail/FEB22009) (2013-2015)
+BA (Econometrics) 2: FEB22003X Advanced Statistics (2010-2015)
 
-BA (Economics) 2: [FEB12012 Methoden en Technieken: T2](http://ese.sin-online.nl/studiegids/history.html?action2=show_course&course=FEB12012-13) (2010-2014)
+BA (Econometrics) 2: FEB22009 Basiswerkcollege Case Studies (2013-2015)
 
-BA (Economics) 2: [FEB12012X Methods and Techniques: T2](http://ese.sin-online.nl/studiegids/history.html?action2=show_course&course=FEB12012X-13) (2010-2014)
+BA (Economics) 2: FEB12012 Methoden en Technieken: T2 (2010-2014)
+
+BA (Economics) 2: FEB12012X Methods and Techniques: T2 (2010-2014)
