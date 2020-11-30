@@ -12,7 +12,7 @@ Journal Articles
 ----------------
 
 * Tom Boot and Andreas Pick  (2020) "[Does modeling a structural break improve forecast accuracy?](https://doi.org/10.1016/j.jeconom.2019.07.007)" *Journal of Econometrics* 215(1) 35--59  
-[Working paper version](/papers/Boot_Pick_2019_Break_Test.pdf), [Online appendix](/papers/Boot_Pick_2019_Online_Appendix.pdf)
+[Working paper version](/papers/BootPick2019BreakTest.pdf), [Online appendix](/papers/BootPick2019OnlineAppendix.pdf)
 
 
 <a name="MarkovSwitching"></a>
