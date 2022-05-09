@@ -19,7 +19,7 @@ MSc (Econometrics): FEM21031 Masters Thesis Supervision
 Past Teaching
 -------------
 
-MRes (2nd year course): TI197 Academic Writing (2017-2021)
+MRes (2nd year course): TI197 Academic Writing (2017-2020)
 
 MSc (Econometrics): FEM21022 Seminar Case Studies in Applied Econometrics (2021)
 
