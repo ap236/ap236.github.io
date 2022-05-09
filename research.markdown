@@ -11,11 +11,10 @@ Editor
 Journal Articles
 ----------------
 
+* Andreas Pick and Matthijs Carpay (2022) "[Multi-step forecasting with large vector autoregressions](/papers/PickCarpayMay2021.pdf)" *Advances in Econometrics (Essays in the Honor of M. Hashem Pesaran)* 43A, 73–-98
+
 * Tom Boot and Andreas Pick  (2020) "[Does modeling a structural break improve forecast accuracy?](https://doi.org/10.1016/j.jeconom.2019.07.007)" *Journal of Econometrics* 215(1) 35--59  
 [Working paper version](/papers/BootPick2019BreakTest.pdf), [Online appendix](/papers/BootPick2019OnlineAppendix.pdf)
-
-
-<a name="MarkovSwitching"></a>
 
 * Tom Boot and Andreas Pick (2018)
 "[Optimal forecasts from Markov switching models](http://dx.doi.org/10.1080/07350015.2016.1219264)" *Journal of Business & Economic Statistics* 36(4) 628--642  
@@ -71,7 +70,11 @@ Other Publications
 
 Working Papers
 --------------
-* Andreas Pick and Matthijs Carpay (2019) "[Multi-step forecasting with large vector autoregressions](/papers/PickCarpayDec2019.pdf)"
+* Hashem Pesaran, Andreas Pick and Allan Timmermann (2022) "Forecasting with panel
+data: estimation uncertainty versus parameter heterogeneity"
+[CEPR](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17123),
+[CESifo](https://www.cesifo.org/en/publikationen/2022/working-paper/forecasting-panel-data-estimation-uncertainty-versus-parameter),
+[Presentation by Hashem Pesaran on YouTube](https://www.youtube.com/watch?v=8LxhVGrCJrQ)
 
 * Michael Biggs, Thomas Mayer and Andreas Pick (2010)
 "Credit and economic recovery: Demystifying Phoenix Miracles" [SSRN](http://ssrn.com/abstract=1595980)   

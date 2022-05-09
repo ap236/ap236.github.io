@@ -21,5 +21,5 @@ Tel.: +31 (0)10 408 2819
 
 <br />
 
-*At home*:   
+*At home* (some time ago):   
 <img src="/pics/AndKat.png" style="float:center;margin:10px 0 0 0;">
