@@ -10,7 +10,7 @@ writing econometrics theses. There is more to academic writing than can fit into
 a single blog post. Fortunately, much already seem to be well understood, so I will
 focus on the issues that seem to go wrong more often. Naturally, the comments
 reflect my own preferences. So when writing in other circumstances, take from
-this what you want.
+this what you will.
 
 A general point is that you need to write for the reader and not yourself.
 Hence, do not focus on your discovery process but on the research results that
