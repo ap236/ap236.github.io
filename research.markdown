@@ -70,6 +70,10 @@ Other Publications
 
 Working Papers
 --------------
+
+* Dennis Kant, Andreas Pick and Jasper de Winter (2022) "[Nowcasting GDP using
+machine learning methods](/papers/KPW_Nowcasting_May2022.pdf)"
+
 * Hashem Pesaran, Andreas Pick and Allan Timmermann (2022) "Forecasting with panel
 data: estimation uncertainty versus parameter heterogeneity"
 [CEPR](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17123),

@@ -1,4 +1,4 @@
-I"�<h2 id="editor">Editor</h2>
+I"�<h2 id="editor">Editor</h2>
 <p><a href="http://www.hstalks.com/main/browse_talks.php?father_id=342&amp;c=250">Government Debt Management</a>, (2009) Henry Stewart Talks</p>
 
 <h2 id="journal-articles">Journal Articles</h2>
@@ -86,7 +86,12 @@
 </ul>
 
 <h2 id="working-papers">Working Papers</h2>
+
 <ul>
+  <li>
+    <p>Dennis Kant, Andreas Pick and Jasper de Winter (2022) “<a href="/papers/KPW_Nowcasting_May2022.pdf">Nowcasting GDP using
+machine learning methods</a>”</p>
+  </li>
   <li>
     <p>Hashem Pesaran, Andreas Pick and Allan Timmermann (2022) “Forecasting with panel
 data: estimation uncertainty versus parameter heterogeneity”
