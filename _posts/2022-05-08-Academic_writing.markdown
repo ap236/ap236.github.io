@@ -5,18 +5,20 @@ date: 2022-05-08 15:32:00
 categories: teaching
 ---
 
-In this blog post, I make suggestions to avoid commonly made mistakes when
-writing econometrics theses. There is more to academic writing than can fit into
-a single blog post. Fortunately, much already seem to be well understood, so I will
-focus on the issues that seem to go wrong more often. Naturally, the comments
-reflect my own preferences. So when writing in other circumstances, take from
-this what you will.
+In this blog post, I address some frequently made mistakes in the writing of
+econometrics theses. Naturally, there is more to academic writing than can fit
+into a single blog post, so I will focus on the issues that seem to go wrong
+most often. Note, also that the comments reflect my own preferences. When
+writing in other circumstances, take from this what you will. Finally, this blog
+post is about the academic side of writing not about English prose. I am
+semi-qualified to talk about the former and absolutely unqualified to talk about
+the latter.
 
-A general point is that you need to write for the reader and not yourself.
-Hence, do not focus on your discovery process but on the research results that
-you want the reader to know about. These results are the main message of your
-writing and everything else needs to serve to get this message across as clearly
-as possible.
+A general point is that you need to write for the reader and not yourself. Do
+not focus on your discovery process but on the research results that you want to
+convey to the reader. These results are the main message of your writing and
+everything else needs to serve the purpose of getting them across as clearly as
+possible.
 
 The introduction
 ----------------
@@ -31,7 +33,7 @@ straight to the chase.
 Unless you have a very obscure topic that needs an introduction, you do not
 need to provide any background information before announcing what your research
 is about. It can feel brutal to start the thesis without giving a general
-introduction but the thesis will read better as a result.
+introduction but the thesis will read better for it.
 
 A good structure for the first few paragraphs of the intro is as follows:
 
@@ -42,11 +44,11 @@ inflation.“ Under no circumstances start with a general statement such as
 already and you have wasted their time by making them read this.
 
 2. Next, let the reader know how you are approaching the topic. For example:
- „The empirical analysis compares forecasts for Dutch CPI inflation from 1992
- to 2021. The forecasts are constructed from boosted regression trees and are
- compared to those from benchmark models, such as AR(p) models and the random walk.“ Then,
- provide some more details of your approach to the problem. Be reasonably precise
- without killing the reader with minute details.
+„The empirical analysis compares forecasts for Dutch CPI inflation from 1992 to
+2021. The forecasts are constructed from boosted regression trees and are
+compared to those from benchmark models, such as AR(p) models and the random
+walk.“ Then, provide some more details of your approach to the problem. Be
+reasonably precise without killing the reader with minute details.
 
 3. Next, explain your headline findings, that is, what are the most important
 take-aways. For example: „I find that the random forest has a root mean square
@@ -62,24 +64,24 @@ answering it, and what you find.
 General introductions are only necessary if the topic is very obscure, for
 example, due to the regulation of a particular industry or the requirements of a
 particular company where you write your thesis. Any general introduction that
-provides a background should nonetheless be specific to your research and not exceed a short
-paragraph. Always avoid general statements, such as „GDP is an important
-economic variable“, from which the reader learns nothing.
+provides a background should nonetheless be specific to your research and not
+exceed a short paragraph. Always avoid general statements, such as „GDP is an
+important economic variable“, from which the reader learns nothing.
 
 Literature
 ----------
 
 It is important that you place your own research in the literature. This serves
-a number of purposes. First, it is very unlikely that you have not used any
-results derived by other people, and you need to indicate what you have been
-building on. This is important as even the suspicion of plagiarism is damaging.
-Second, given that most readers will be aware of the existing literature, you
-need to emphasise what is new in your research. This is easier when discussing
-what has been done before. Any difference will then be your own work and you can
-then easily point out those differences. Third, academic readers can be
-impatient and will want to know early on that it is worthwhile reading your
-work. Pointing out the differences to the previous literature can help emphasise
-the importance of your work.
+a number of purposes. First, it is unlikely that you have not based your
+research on that of others, and you need to indicate what you have been building
+on. This is important as even the suspicion of plagiarism is damaging. Second,
+given that most readers will be aware of the existing literature, you need to
+emphasise what is new in your research. This is easier when discussing what has
+been done before. Any difference will then be your own work and you can then
+easily point out those differences. Third, academic readers can be impatient and
+will want to know early on that it is worthwhile reading your work. Pointing out
+the differences to the previous literature can help emphasise the importance of
+your work.
 
 From the above, it should be clear that your review of the literature needs to
 be tightly linked to your own research, which you explained at the beginning of
@@ -89,7 +91,7 @@ not have a separate section called „Literature“ but discuss the literature i
 the introduction.
 
 Another reason to avoid a separate literature section is that section headings
-seem to act similarly to doors. When looking for something and walking through a
+seem to act in a similar way to doors. When looking for something and walking through a
 door people tend to forget what they came looking for (see [evidence described
 here](https://www.livescience.com/17132-forget-walked-room-doorways-blame-study-finds.html)).
 Similarly, section headings appear to disconnect the mind of the writer from the
@@ -102,18 +104,19 @@ promise of great research in the introduction to the actual research. The
 purpose of writing a research paper or a thesis is to transmit a great idea from
 the creator to the reader. Anything that blocks this transmission, such as a
 section on the literature that only vaguely relates to that idea, is a problem.
-The computer scientist [Simon Peyton Jones is very eloquent about this point](https://youtu.be/WP-FkUaOcOM).
+The computer scientist [Simon Peyton Jones explains this eloquently](https://youtu.be/WP-FkUaOcOM).
 
 Comprehensive writing
 ---------------------
 
-Writing is hard work and takes time. Good writing
-explains as much as possible in as few words as possible. Make it an exercise to
-go over your thesis and ask yourself if you can express what you have written in
-fewer words. You will be surprised how many words you can save. This does not
-mean you should drop content but that the same content can be transmitted with
-fewer words. It is possible to be too stingy with words but I have yet to
-encounter a thesis where this was the case.
+Writing is hard work and takes time. Good writing explains as much as possible
+in as few words as possible. Make it an exercise to go over your thesis and ask
+yourself if you can express what you have written in fewer words. (For example,
+the previous sentence could drop "you can express what you have written" for "it
+can be expressed". It would have been better that way.) You will be surprised
+how many words you can save. This does not mean you should drop content but that
+the same content can be transmitted in fewer words. It is possible to be too
+stingy with words but I have yet to encounter a thesis where this was the case.
 
 What needs to be explained in the thesis
 ----------------------------------------
@@ -150,6 +153,8 @@ Some details
 
 - Avoid footnotes.
 - Do not use punctuation after display equations.
+- In the References section, do not put "The" in front of journal names. That is,
+  "Review of Economic Studies" and not "The Review of Economic Studies".
 
 Most importantly, enjoy the thesis process, including the writing part. It is
 hard work but it can be a lot of fun.
