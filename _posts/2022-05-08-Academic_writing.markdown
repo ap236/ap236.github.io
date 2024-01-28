@@ -41,14 +41,14 @@ A good structure for the first few paragraphs of the intro is as follows:
 thesis analyses the forecast accuracy of boosted regression trees for Dutch
 inflation.“ Under no circumstances start with a general statement such as
 „Inflation is an important variable for central banks“ — the reader knows this
-already and you have wasted their time by making them read this.
+already and you have wasted their time making them read this.
 
 2. Next, let the reader know how you are approaching the topic. For example:
-„The empirical analysis compares forecasts for Dutch CPI inflation from 1992 to
-2021. The forecasts are constructed from boosted regression trees and are
-compared to those from benchmark models, such as AR(p) models and the random
-walk.“ Then, provide some more details of your approach to the problem. Be
-reasonably precise without killing the reader with minute details.
+„The empirical analysis compares forecasts for Dutch CPI inflation from 
+1992 to 2021. The forecasts are constructed from boosted regression trees 
+and are compared to those from benchmark models, such as AR models and 
+the random walk.“ Then, provide some more details of your approach to 
+the problem. Be reasonably precise without killing the reader with minute details.
 
 3. Next, explain your headline findings, that is, what are the most important
 take-aways. For example: „I find that the random forest has a root mean square
@@ -95,7 +95,7 @@ seem to act in a similar way to doors. When looking for something and walking th
 door people tend to forget what they came looking for (see [evidence described
 here](https://www.livescience.com/17132-forget-walked-room-doorways-blame-study-finds.html)).
 Similarly, section headings appear to disconnect the mind of the writer from the
-previous section, which results in literature reviews that are only mildly
+previous section, which results in literature reviews that are only vaguely
 connected to the description of the research in the previous section. This makes
 the literature review much less useful.
 
@@ -113,9 +113,9 @@ Writing is hard work and takes time. Good writing explains as much as possible
 in as few words as possible. Make it an exercise to go over your thesis and ask
 yourself if you can express what you have written in fewer words. (For example,
 the previous sentence could drop "you can express what you have written" for "it
-can be expressed". It would have been better that way.) You will be surprised
+can be expressed". It could have been better that way.) You will be surprised
 how many words you can save. This does not mean you should drop content but that
-the same content can be transmitted in fewer words. It is possible to be too
+the same content can be transmitted with fewer words. It is possible to be too
 stingy with words but I have yet to encounter a thesis where this was the case.
 
 What needs to be explained in the thesis
@@ -138,7 +138,7 @@ risky. Not because machine learning slang is worse than econometrics slang but
 because you will end up using different words for the same concept. What is the
 difference between features and regressors, weights and parameters? Being able
 to translate a machine learning model into the language of econometrics has the
-added benefit of demonstrating that you understand the model.
+added benefit of demonstrating that you understand what you do.
 
 Layout
 ------
