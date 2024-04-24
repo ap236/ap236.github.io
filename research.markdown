@@ -8,8 +8,11 @@ Editor
 [Government Debt Management](http://www.hstalks.com/main/browse_talks.php?father_id=342&c=250), (2009) Henry Stewart Talks
 
 
-Journal Articles
+Articles
 ----------------
+
+* Andreas Pick and Allan Timmermann (2024) "[Panel data forecasting](/papers/Panel_Data_Forecasting_Handbook_Chapter.pdf)" Chapter in *Handbook on Macroeconomic Forecasting*
+ed. Mike Clements and Ana Galvao (forthcoming)
 
 * Andreas Pick and Matthijs Carpay (2022) "[Multi-step forecasting with large vector autoregressions](/papers/PickCarpayMay2021.pdf)" *Advances in Econometrics (Essays in the Honor of M. Hashem Pesaran)* 43A, 73–-98
 
@@ -59,6 +62,10 @@ Journal Articles
 Other Publications
 ------------------
 
+* Andreas Pick and Jasper de Winter (2023) 
+"Can machine learning methods help nowcast
+GDP?" [SUERF Policy Brief](https://www.suerf.org/wp-content/uploads/2023/12/f_3d1ea4feabe1e0e42df6e0c9e599fe93_61267_suerf.pdf), 521
+
 * Michael Biggs, Thomas Mayer and Andreas Pick (2010)
 "The myth of the 'Phoenix Miracle'" [VoxEU.org](http://www.voxeu.org/index.php?q=node/5038), 14 May 2010
 
@@ -71,14 +78,12 @@ Other Publications
 Working Papers
 --------------
 
-* Dennis Kant, Andreas Pick and Jasper de Winter (2022) "[Nowcasting GDP using
-machine learning methods](/papers/KPW_Nowcasting_May2022.pdf)"
-
-* Hashem Pesaran, Andreas Pick and Allan Timmermann (2022) "Forecasting with panel
-data: estimation uncertainty versus parameter heterogeneity"
-[CEPR](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17123),
-[CESifo](https://www.cesifo.org/en/publikationen/2022/working-paper/forecasting-panel-data-estimation-uncertainty-versus-parameter),
+* Hashem Pesaran, Andreas Pick and Allan Timmermann (2024) "[Forecasting with panel
+data: estimation uncertainty versus parameter heterogeneity](https://doi.org/10.48550/arXiv.2404.11198)"
 [Presentation by Hashem Pesaran on YouTube](https://www.youtube.com/watch?v=8LxhVGrCJrQ)
+
+* Dennis Kant, Andreas Pick and Jasper de Winter (2023) "[Nowcasting GDP using
+machine learning methods](/papers/KPW_2023.pdf)"
 
 * Michael Biggs, Thomas Mayer and Andreas Pick (2010)
 "Credit and economic recovery: Demystifying Phoenix Miracles" [SSRN](http://ssrn.com/abstract=1595980)   
