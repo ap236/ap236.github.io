@@ -83,7 +83,7 @@ data: estimation uncertainty versus parameter heterogeneity](https://doi.org/10.
 [Presentation by Hashem Pesaran on YouTube](https://www.youtube.com/watch?v=8LxhVGrCJrQ)
 
 * Dennis Kant, Andreas Pick and Jasper de Winter (2023) "[Nowcasting GDP using
-machine learning methods](/papers/KPW_2023.pdf)"
+machine learning methods](/papers/KPW_Oct_2023.pdf)"
 
 * Michael Biggs, Thomas Mayer and Andreas Pick (2010)
 "Credit and economic recovery: Demystifying Phoenix Miracles" [SSRN](http://ssrn.com/abstract=1595980)   
