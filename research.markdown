@@ -80,7 +80,7 @@ Working Papers
 
 * Hashem Pesaran, Andreas Pick and Allan Timmermann (2024) "[Forecasting with panel
 data: estimation uncertainty versus parameter heterogeneity](https://doi.org/10.48550/arXiv.2404.11198)"<br>
-[Presentation by Hashem Pesaran on YouTube](https://www.youtube.com/watch?v=8LxhVGrCJrQ)<br>
+[Presentation by Hashem Pesaran on YouTube](https://www.youtube.com/watch?v=8LxhVGrCJrQ), 
 [Code on GitHub](https://github.com/ap236/panelForecasting)
 
 * Dennis Kant, Andreas Pick and Jasper de Winter (2023) "[Nowcasting GDP using
