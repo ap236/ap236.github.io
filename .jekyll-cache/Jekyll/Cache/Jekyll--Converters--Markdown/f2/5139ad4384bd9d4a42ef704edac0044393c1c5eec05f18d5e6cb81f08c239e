@@ -1,12 +1,11 @@
-I"#<p>In this blog post, I address a few commonly made mistakes in the writing of
-econometrics theses. As there is more to academic writing than can fit into a
-single blog post, I will focus on the issues that seem to go wrong most
-often. Naturally, the comments reflect my own preferences. When writing in other
-circumstances, take from this what you will.</p>
-
-<p>Also, this blog post is about the academic side of writing not about English
-prose. I am semi-qualified to talk about the former and definitely unqualified
-to talk about the latter.</p>
+I"0#<p>In this blog post, I address some frequently made mistakes in the writing of
+econometrics theses. Naturally, there is more to academic writing than can fit
+into a single blog post, so I will focus on the issues that seem to go wrong
+most often. Note, also that the comments reflect my own preferences. When
+writing in other circumstances, take from this what you will. Finally, this blog
+post is about the academic side of writing not about English prose. I am
+semi-qualified to talk about the former and absolutely unqualified to talk about
+the latter.</p>
 
 <p>A general point is that you need to write for the reader and not yourself. Do
 not focus on your discovery process but on the research results that you want to
@@ -36,21 +35,23 @@ introduction but the thesis will read better for it.</p>
 thesis analyses the forecast accuracy of boosted regression trees for Dutch
 inflation.“ Under no circumstances start with a general statement such as
 „Inflation is an important variable for central banks“ — the reader knows this
-already and you have wasted their time by making them read this.</p>
+already and you have wasted their time making them read this.</p>
   </li>
-  <li>Next, let the reader know how you are approaching the topic. For example:
-„The empirical analysis compares forecasts for Dutch CPI inflation from 1992 to</li>
   <li>
-    <p>The forecasts are constructed from boosted regression trees and are
-compared to those from benchmark models, such as AR(p) models and the random
-walk.“ Then, provide some more details of your approach to the problem. Be
-reasonably precise without killing the reader with minute details.</p>
+    <p>Next, let the reader know how you are approaching the topic. For example:
+„The empirical analysis compares forecasts for Dutch CPI inflation from 
+1992 to 2021. The forecasts are constructed from boosted regression trees 
+and are compared to those from benchmark models, such as AR models and 
+the random walk.“ Then, provide some more details of your approach to 
+the problem. Be reasonably precise without killing the reader with minute details.</p>
   </li>
-  <li>Next, explain your headline findings, that is, what are the most important
+  <li>
+    <p>Next, explain your headline findings, that is, what are the most important
 take-aways. For example: „I find that the random forest has a root mean square
 forecast error that is 11% below that of the best AR model.“ More headline
 results could follow, such as the performance of the other methods, important
-results in sub-periods, and so forth.</li>
+results in sub-periods, and so forth.</p>
+  </li>
 </ol>
 
 <p>These first few paragraphs should explain your research and your research only.
@@ -91,7 +92,7 @@ seem to act in a similar way to doors. When looking for something and walking th
 door people tend to forget what they came looking for (see <a href="https://www.livescience.com/17132-forget-walked-room-doorways-blame-study-finds.html">evidence described
 here</a>).
 Similarly, section headings appear to disconnect the mind of the writer from the
-previous section, which results in literature reviews that are only mildly
+previous section, which results in literature reviews that are only vaguely
 connected to the description of the research in the previous section. This makes
 the literature review much less useful.</p>
 
@@ -108,9 +109,9 @@ The computer scientist <a href="https://youtu.be/WP-FkUaOcOM">Simon Peyton Jones
 in as few words as possible. Make it an exercise to go over your thesis and ask
 yourself if you can express what you have written in fewer words. (For example,
 the previous sentence could drop “you can express what you have written” for “it
-can be expressed”. It would have been better that way.) You will be surprised
+can be expressed”. It could have been better that way.) You will be surprised
 how many words you can save. This does not mean you should drop content but that
-the same content can be transmitted in fewer words. It is possible to be too
+the same content can be transmitted with fewer words. It is possible to be too
 stingy with words but I have yet to encounter a thesis where this was the case.</p>
 
 <h2 id="what-needs-to-be-explained-in-the-thesis">What needs to be explained in the thesis</h2>
@@ -131,7 +132,7 @@ risky. Not because machine learning slang is worse than econometrics slang but
 because you will end up using different words for the same concept. What is the
 difference between features and regressors, weights and parameters? Being able
 to translate a machine learning model into the language of econometrics has the
-added benefit of demonstrating that you understand the model.</p>
+added benefit of demonstrating that you understand what you do.</p>
 
 <h2 id="layout">Layout</h2>
 

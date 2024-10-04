@@ -1,9 +1,17 @@
-I"�<h2 id="editor">Editor</h2>
+I"n<h2 id="editor">Editor</h2>
 <p><a href="http://www.hstalks.com/main/browse_talks.php?father_id=342&amp;c=250">Government Debt Management</a>, (2009) Henry Stewart Talks</p>
 
-<h2 id="journal-articles">Journal Articles</h2>
+<h2 id="articles">Articles</h2>
 
 <ul>
+  <li>
+    <p>Dennis Kant, Andreas Pick and Jasper de Winter (2024) “<a href="/papers/KPW_Nowcasting_Oct_2024.pdf">Nowcasting GDP using
+machine learning methods</a>” <em>Advances in Statistical Analysis</em> (forthcoming)</p>
+  </li>
+  <li>
+    <p>Andreas Pick and Allan Timmermann (2024) “<a href="/papers/Panel_Data_Forecasting_Handbook_Chapter.pdf">Panel data forecasting</a>” Chapter in <em>Handbook on Macroeconomic Forecasting</em>
+ed. Mike Clements and Ana Galvao (forthcoming)</p>
+  </li>
   <li>
     <p>Andreas Pick and Matthijs Carpay (2022) “<a href="/papers/PickCarpayMay2021.pdf">Multi-step forecasting with large vector autoregressions</a>” <em>Advances in Econometrics (Essays in the Honor of M. Hashem Pesaran)</em> 43A, 73–-98</p>
   </li>
@@ -72,6 +80,11 @@
 
 <ul>
   <li>
+    <p>Andreas Pick and Jasper de Winter (2023) 
+“Can machine learning methods help nowcast
+GDP?” <a href="https://www.suerf.org/wp-content/uploads/2023/12/f_3d1ea4feabe1e0e42df6e0c9e599fe93_61267_suerf.pdf">SUERF Policy Brief</a>, 521</p>
+  </li>
+  <li>
     <p>Michael Biggs, Thomas Mayer and Andreas Pick (2010)
 “The myth of the ‘Phoenix Miracle’” <a href="http://www.voxeu.org/index.php?q=node/5038">VoxEU.org</a>, 14 May 2010</p>
   </li>
@@ -89,15 +102,10 @@
 
 <ul>
   <li>
-    <p>Dennis Kant, Andreas Pick and Jasper de Winter (2022) “<a href="/papers/KPW_Nowcasting_May2022.pdf">Nowcasting GDP using
-machine learning methods</a>”</p>
-  </li>
-  <li>
-    <p>Hashem Pesaran, Andreas Pick and Allan Timmermann (2022) “Forecasting with panel
-data: estimation uncertainty versus parameter heterogeneity”
-<a href="https://cepr.org/active/publications/discussion_papers/dp.php?dpno=17123">CEPR</a>,
-<a href="https://www.cesifo.org/en/publikationen/2022/working-paper/forecasting-panel-data-estimation-uncertainty-versus-parameter">CESifo</a>,
-<a href="https://www.youtube.com/watch?v=8LxhVGrCJrQ">Presentation by Hashem Pesaran on YouTube</a></p>
+    <p>Hashem Pesaran, Andreas Pick and Allan Timmermann (2024) “<a href="https://doi.org/10.48550/arXiv.2404.11198">Forecasting with panel
+data: estimation uncertainty versus parameter heterogeneity</a>“<br />
+Presentation of previous version by Hashem Pesaran on <a href="https://www.youtube.com/watch?v=8LxhVGrCJrQ">YouTube</a>, 
+<a href="https://github.com/ap236/panelForecasting">Code on GitHub</a></p>
   </li>
   <li>
     <p>Michael Biggs, Thomas Mayer and Andreas Pick (2010)

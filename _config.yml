@@ -5,9 +5,8 @@ office: Department of Econometrics
 address: PO Box 1738, NL-3000 DR Rotterdam
 #telephone:
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://ap236.github.com" # the base hostname & protocol for your site
-#twitter_username: "@apickeu"
-#github_username:  "ap236"
+url: "ap236.github.com/" # the base hostname & protocol for your site
+github_username:  "ap236"
 
 # Build settings
 markdown: kramdown

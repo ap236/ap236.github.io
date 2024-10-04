@@ -11,6 +11,9 @@ Editor
 Articles
 ----------------
 
+* Dennis Kant, Andreas Pick and Jasper de Winter (2024) "[Nowcasting GDP using
+machine learning methods](/papers/KPW_Nowcasting_Oct_2024.pdf)" *Advances in Statistical Analysis* (forthcoming)
+
 * Andreas Pick and Allan Timmermann (2024) "[Panel data forecasting](/papers/Panel_Data_Forecasting_Handbook_Chapter.pdf)" Chapter in *Handbook on Macroeconomic Forecasting*
 ed. Mike Clements and Ana Galvao (forthcoming)
 
@@ -82,9 +85,6 @@ Working Papers
 data: estimation uncertainty versus parameter heterogeneity](https://doi.org/10.48550/arXiv.2404.11198)"<br>
 Presentation of previous version by Hashem Pesaran on [YouTube](https://www.youtube.com/watch?v=8LxhVGrCJrQ), 
 [Code on GitHub](https://github.com/ap236/panelForecasting)
-
-* Dennis Kant, Andreas Pick and Jasper de Winter (2023) "[Nowcasting GDP using
-machine learning methods](/papers/KPW_Oct_2023.pdf)"
 
 * Michael Biggs, Thomas Mayer and Andreas Pick (2010)
 "Credit and economic recovery: Demystifying Phoenix Miracles" [SSRN](http://ssrn.com/abstract=1595980)   
