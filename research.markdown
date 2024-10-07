@@ -11,13 +11,16 @@ Editor
 Articles
 ----------------
 
-* Dennis Kant, Andreas Pick and Jasper de Winter (2024) "[Nowcasting GDP using
-machine learning methods](/papers/KPW_Nowcasting_Oct_2024.pdf)" *Advances in Statistical Analysis* (forthcoming)
+* Dennis Kant, Andreas Pick and Jasper de Winter (2024) "Nowcasting GDP using
+machine learning methods" *Advances in Statistical Analysis* (forthcoming)   
+[Working paper version](/papers/KPW_Nowcasting_Oct_2024.pdf), [Online appendix](/papers/kpw_online_appendix.pdf)
 
-* Andreas Pick and Allan Timmermann (2024) "[Panel data forecasting](/papers/Panel_Data_Forecasting_Handbook_Chapter.pdf)" Chapter in *Handbook on Macroeconomic Forecasting*
-ed. Mike Clements and Ana Galvao (forthcoming)
+* Andreas Pick and Allan Timmermann (2024) "Panel data forecasting" Chapter 4 in *Handbook on Macroeconomic Forecasting*
+ed. Mike Clements and Ana Galvao (forthcoming)   
+[Working paper version](/papers/Panel_Data_Forecasting_Handbook_Chapter.pdf)
 
-* Andreas Pick and Matthijs Carpay (2022) "[Multi-step forecasting with large vector autoregressions](/papers/PickCarpayMay2021.pdf)" *Advances in Econometrics (Essays in the Honor of M. Hashem Pesaran)* 43A, 73–-98
+* Andreas Pick and Matthijs Carpay (2022) "[Multi-step forecasting with large vector autoregressions](https://www.emerald.com/insight/content/doi/10.1108/S0731-90532021000043A005/full/html)" *Advances in Econometrics (Essays in the Honor of M. Hashem Pesaran)* 43A, 73–-98   
+[Working paper version](/papers/PickCarpayMay2021.pdf)
 
 * Tom Boot and Andreas Pick  (2020) "[Does modeling a structural break improve forecast accuracy?](https://doi.org/10.1016/j.jeconom.2019.07.007)" *Journal of Econometrics* 215(1) 35--59  
 [Working paper version](/papers/BootPick2019BreakTest.pdf), [Online appendix](/papers/BootPick2019OnlineAppendix.pdf)
