@@ -11,8 +11,8 @@ Editor
 Articles
 ----------------
 
-* Dennis Kant, Andreas Pick and Jasper de Winter (2024) "Nowcasting GDP using
-machine learning methods" *Advances in Statistical Analysis* (forthcoming)   
+* Dennis Kant, Andreas Pick and Jasper de Winter (2024) "[Nowcasting GDP using
+machine learning methods](https://rdcu.be/d0aa8)" *Advances in Statistical Analysis* (forthcoming)   
 [Working paper version](/papers/KPW_Nowcasting_Oct_2024.pdf), [Online appendix](/papers/kpw_online_appendix.pdf), [Code on GitHub](https://github.com/jasperdewinter/KantPickdeWinter)
 
 * Andreas Pick and Allan Timmermann (2024) "Panel data forecasting" Chapter 4 in *Handbook on Macroeconomic Forecasting*
