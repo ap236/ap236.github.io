@@ -15,7 +15,7 @@ Articles
 machine learning methods](https://rdcu.be/d0aa8)" *Advances in Statistical Analysis* (forthcoming)   
 [Working paper version](/papers/KPW_Nowcasting_Oct_2024.pdf), [Online appendix](/papers/kpw_online_appendix.pdf), [Code on GitHub](https://github.com/jasperdewinter/KantPickdeWinter)
 
-* Andreas Pick and Allan Timmermann (2024) "Panel data forecasting" Chapter 4 in *Handbook on Macroeconomic Forecasting*
+* Andreas Pick and Allan Timmermann (2024) "Panel data forecasting" Chapter 4 in [*Handbook of Research Methods and Applications in Macroeconomic Forecasting*](https://www.elgaronline.com/edcollbook/book/9781035310050/9781035310050.xml)
 ed. Mike Clements and Ana Galvao (forthcoming)   
 [Working paper version](/papers/Panel_Data_Forecasting_Handbook_Chapter.pdf)
 
