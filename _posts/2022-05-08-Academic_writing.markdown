@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Academic writing tips for thesis students in econometrics
+title: Academic writing tips for econometrics theses 
 date: 2022-05-08 15:32:00
 categories: teaching
 ---
