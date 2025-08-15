@@ -11,8 +11,8 @@ Editor
 Articles
 ----------------
 
-* Dennis Kant, Andreas Pick and Jasper de Winter (2024) "[Nowcasting GDP using
-machine learning methods](https://rdcu.be/d0aa8)" *Advances in Statistical Analysis* (forthcoming)   
+* Dennis Kant, Andreas Pick and Jasper de Winter (2025) "[Nowcasting GDP using
+machine learning methods](https://rdcu.be/d0aa8)" *Advances in Statistical Analysis* 109(1), 1--24   
 [Working paper version](/papers/KPW_Nowcasting_Oct_2024.pdf), [Online appendix](/papers/kpw_online_appendix.pdf), [Code on GitHub](https://github.com/jasperdewinter/KantPickdeWinter)
 
 * Andreas Pick and Allan Timmermann (2024) "Panel data forecasting" Chapter 4 in [*Handbook of Research Methods and Applications in Macroeconomic Forecasting*](https://www.elgaronline.com/edcollbook/book/9781035310050/9781035310050.xml)
@@ -84,8 +84,8 @@ GDP?" [SUERF Policy Brief](https://www.suerf.org/wp-content/uploads/2023/12/f_3d
 Working Papers
 --------------
 
-* Hashem Pesaran, Andreas Pick and Allan Timmermann (2024) "[Forecasting with panel
-data: estimation uncertainty versus parameter heterogeneity](https://doi.org/10.48550/arXiv.2404.11198)"<br>
+* Hashem Pesaran, Andreas Pick and Allan Timmermann (2025) "[Forecasting with panel
+data: estimation uncertainty versus parameter heterogeneity](/papers/PanelForecasting_15_Aug_2025)"<br>
 Presentation of previous version by Hashem Pesaran on [YouTube](https://www.youtube.com/watch?v=8LxhVGrCJrQ), 
 [Code on GitHub](https://github.com/ap236/panelForecasting)
 
