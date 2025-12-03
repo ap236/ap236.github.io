@@ -11,6 +11,12 @@ Editor
 Articles
 ----------------
 
+* Hashem Pesaran, Andreas Pick and Allan Timmermann (2025) "[Forecasting with panel
+data: estimation uncertainty versus parameter heterogeneity](/papers/PanelForecasting_15_Aug_2025.pdf)"
+*Quantitative Economics* (accepted for publication)<br>
+Presentation of previous version by Hashem Pesaran on [YouTube](https://www.youtube.com/watch?v=8LxhVGrCJrQ), 
+[Code on GitHub](https://github.com/ap236/panelForecasting)
+
 * Dennis Kant, Andreas Pick and Jasper de Winter (2025) "[Nowcasting GDP using
 machine learning methods](https://rdcu.be/d0aa8)" *Advances in Statistical Analysis* 109(1), 1--24   
 [Working paper version](/papers/KPW_Nowcasting_Oct_2024.pdf), [Online appendix](/papers/kpw_online_appendix.pdf), [Code on GitHub](https://github.com/jasperdewinter/KantPickdeWinter)
@@ -85,11 +91,6 @@ Working Papers
 --------------
 
 * Andreas Pick (2025) "[Stochastic search selection for heterogeneous panel data models](/papers/Pick2025PanelSSVS.pdf)"
-
-* Hashem Pesaran, Andreas Pick and Allan Timmermann (2025) "[Forecasting with panel
-data: estimation uncertainty versus parameter heterogeneity](/papers/PanelForecasting_15_Aug_2025.pdf)"<br>
-Presentation of previous version by Hashem Pesaran on [YouTube](https://www.youtube.com/watch?v=8LxhVGrCJrQ), 
-[Code on GitHub](https://github.com/ap236/panelForecasting)
 
 * Michael Biggs, Thomas Mayer and Andreas Pick (2010)
 "Credit and economic recovery: Demystifying Phoenix Miracles" [SSRN](http://ssrn.com/abstract=1595980)   
