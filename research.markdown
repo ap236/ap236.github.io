@@ -16,7 +16,7 @@ machine learning methods](https://rdcu.be/d0aa8)" *Advances in Statistical Analy
 [Working paper version](/papers/KPW_Nowcasting_Oct_2024.pdf), [Online appendix](/papers/kpw_online_appendix.pdf), [Code on GitHub](https://github.com/jasperdewinter/KantPickdeWinter)
 
 * Andreas Pick and Allan Timmermann (2024) "Panel data forecasting" Chapter 4 in [*Handbook of Research Methods and Applications in Macroeconomic Forecasting*](https://www.elgaronline.com/edcollbook/book/9781035310050/9781035310050.xml)
-ed. Mike Clements and Ana Galvao (forthcoming)   
+ed. Mike Clements and Ana Galvao, Edward Elgar, 68--89 
 [Working paper version](/papers/Panel_Data_Forecasting_Handbook_Chapter.pdf)
 
 * Andreas Pick and Matthijs Carpay (2022) "[Multi-step forecasting with large vector autoregressions](https://www.emerald.com/insight/content/doi/10.1108/S0731-90532021000043A005/full/html)" *Advances in Econometrics (Essays in the Honor of M. Hashem Pesaran)* 43A, 73–-98   
@@ -79,10 +79,12 @@ GDP?" [SUERF Policy Brief](https://www.suerf.org/wp-content/uploads/2023/12/f_3d
 "The myth of the credit-less recovery" Deutsche Securities: Global Macro Issues
 
 * Andreas Pick and Myrvin Anthony (2006)
-"A simulation model for the analysis of the UK's sovereign debt strategy" DMO Research Paper
+"[A simulation model for the analysis of the UK's sovereign debt strategy]"(https://www.dmo.gov.uk/media/ukfea0y3/sda160806.pdf) DMO Research Paper
 
 Working Papers
 --------------
+
+* Andreas Pick (2025) "[Stochastic search selection for heterogeneous panel data models](/papers/Pick2025PanelSSVS.pdf)"
 
 * Hashem Pesaran, Andreas Pick and Allan Timmermann (2025) "[Forecasting with panel
 data: estimation uncertainty versus parameter heterogeneity](/papers/PanelForecasting_15_Aug_2025.pdf)"<br>
