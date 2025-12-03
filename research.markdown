@@ -79,7 +79,7 @@ GDP?" [SUERF Policy Brief](https://www.suerf.org/wp-content/uploads/2023/12/f_3d
 "The myth of the credit-less recovery" Deutsche Securities: Global Macro Issues
 
 * Andreas Pick and Myrvin Anthony (2006)
-"[A simulation model for the analysis of the UK's sovereign debt strategy]"(https://www.dmo.gov.uk/media/ukfea0y3/sda160806.pdf) DMO Research Paper
+"[A simulation model for the analysis of the UK's sovereign debt strategy](https://www.dmo.gov.uk/media/ukfea0y3/sda160806.pdf)" DMO Research Paper
 
 Working Papers
 --------------
