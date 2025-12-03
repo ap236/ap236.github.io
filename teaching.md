@@ -12,7 +12,9 @@ MSc (Econometrics) FEM61001 Masterclass Actuarial Science
 
 BSc (Econometrics) FEB22005(X) Econometrics 2
 
-MSc (Econometrics): FEM21031 Masters Thesis Supervision
+MSc (Econometrics): Masters Thesis Supervision
+
+BSc (Econometrics): Bachelor Thesis Supervision
 
 Past Teaching
 -------------
@@ -29,8 +31,8 @@ MSc (Economics): FEM11090 Applied Econometrics (2014-2015)
 
 MSc (Econometrics): FEM21022 Seminar Case Studies in Applied Econometrics (2013-2015)
 
-BA (Econometrics) 2: FEB22003(X) Voortgezette Statistiek/Advanced Statistics (2010-2015)
+BSc (Econometrics) 2: FEB22003(X) Voortgezette Statistiek/Advanced Statistics (2010-2015)
 
-BA (Econometrics) 2: FEB22009 Basiswerkcollege Case Studies (2013-2015)
+BSc (Econometrics) 2: FEB22009 Basiswerkcollege Case Studies (2013-2015)
 
-BA (Economics) 2: FEB12012(X) Methoden en Technieken/Methods and Techniques: T2 (2010-2014)
+BSc (Economics) 2: FEB12012(X) Methoden en Technieken/Methods and Techniques: T2 (2010-2014)
