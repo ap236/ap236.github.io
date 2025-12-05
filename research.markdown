@@ -12,7 +12,7 @@ Articles
 ----------------
 
 * Hashem Pesaran, Andreas Pick and Allan Timmermann (2025) "[Forecasting with panel
-data: estimation uncertainty versus parameter heterogeneity](/papers/PanelForecasting_15_Aug_2025.pdf)"
+data: estimation uncertainty versus parameter heterogeneity](/papers/PanelForecasting_9_Oct_2025.pdf)"
 *Quantitative Economics* (accepted)<br>
 Presentation of previous version by Hashem Pesaran on [YouTube](https://www.youtube.com/watch?v=8LxhVGrCJrQ), 
 [Code on GitHub](https://github.com/ap236/panelForecasting)
