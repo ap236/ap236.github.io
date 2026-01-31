@@ -11,18 +11,21 @@ Editor
 Articles
 ----------------
 
-* Hashem Pesaran, Andreas Pick and Allan Timmermann (2025) "[Forecasting with panel
-data: estimation uncertainty versus parameter heterogeneity](/papers/PanelForecasting_9_Oct_2025.pdf)"
+* Andreas Pick (2026) "[Stochastic search selection for heterogeneous panel data models](/papers/Pick2026PanelSSVS.pdf)"  *Econometric Reviews* (accepted)<br>
+Code on [GitHub](https://github.com/ap236/Stochastic-Search-Selection-for-Panel-Data-Models)
+
+* Hashem Pesaran, Andreas Pick and Allan Timmermann (2026) "[Forecasting with panel
+data: estimation uncertainty versus parameter heterogeneity](https://arxiv.org/abs/2404.11198)"
 *Quantitative Economics* (accepted)<br>
 Presentation of previous version by Hashem Pesaran on [YouTube](https://www.youtube.com/watch?v=8LxhVGrCJrQ), 
-[Code on GitHub](https://github.com/ap236/panelForecasting)
+Code on [GitHub](https://github.com/ap236/panelForecasting)
 
 * Dennis Kant, Andreas Pick and Jasper de Winter (2025) "[Nowcasting GDP using
 machine learning methods](https://rdcu.be/d0aa8)" *Advances in Statistical Analysis* 109(1), 1--24   
-[Working paper version](/papers/KPW_Nowcasting_Oct_2024.pdf), [Online appendix](/papers/kpw_online_appendix.pdf), [Code on GitHub](https://github.com/jasperdewinter/KantPickdeWinter)
+[Working paper version](/papers/KPW_Nowcasting_Oct_2024.pdf), [Online appendix](/papers/kpw_online_appendix.pdf), Code on [GitHub](https://github.com/jasperdewinter/KantPickdeWinter)
 
 * Andreas Pick and Allan Timmermann (2024) "Panel data forecasting" Chapter 4 in [*Handbook of Research Methods and Applications in Macroeconomic Forecasting*](https://www.elgaronline.com/edcollbook/book/9781035310050/9781035310050.xml)
-ed. Mike Clements and Ana Galvao, Edward Elgar, 68--89 
+ed. Mike Clements and Ana Galvao, Edward Elgar, 68--89  
 [Working paper version](/papers/Panel_Data_Forecasting_Handbook_Chapter.pdf)
 
 * Andreas Pick and Matthijs Carpay (2022) "[Multi-step forecasting with large vector autoregressions](https://www.emerald.com/insight/content/doi/10.1108/S0731-90532021000043A005/full/html)" *Advances in Econometrics (Essays in the Honor of M. Hashem Pesaran)* 43A, 73–-98   
@@ -89,8 +92,6 @@ GDP?" [SUERF Policy Brief](https://www.suerf.org/wp-content/uploads/2023/12/f_3d
 
 Working Papers
 --------------
-
-* Andreas Pick (2025) "[Stochastic search selection for heterogeneous panel data models](/papers/Pick2025PanelSSVS.pdf)"
 
 * Michael Biggs, Thomas Mayer and Andreas Pick (2010)
 "Credit and economic recovery: Demystifying Phoenix Miracles" [SSRN](http://ssrn.com/abstract=1595980)   
