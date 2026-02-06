@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Feb 2026 09:34:20 +0100</pubDate>
-    <lastBuildDate>Fri, 06 Feb 2026 09:34:20 +0100</lastBuildDate>
+    <pubDate>Fri, 06 Feb 2026 09:42:15 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Feb 2026 09:42:15 +0100</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       <item>
@@ -77,13 +77,13 @@ example, due to the regulation of a particular industry or the requirements of a
 particular company where you write your thesis. Any general introduction that
 provides a background should nonetheless be specific to your research and not
 exceed a short paragraph. Always avoid general statements, such as „GDP is an
-important economic variable“, from which the reader learns nothing.&lt;/p&gt;
+important economic variable“ from which the reader learns nothing.&lt;/p&gt;
 
 &lt;h2 id=&quot;literature&quot;&gt;Literature&lt;/h2&gt;
 
 &lt;p&gt;It is important that you place your own research in the literature. This serves
 a number of purposes. First, it is unlikely that you have not based your
-research on that of others, and you need to indicate what you have been building
+research on that of others and you need to indicate what you have been building
 on. This is important as even the suspicion of plagiarism is damaging. Second,
 given that most readers will be aware of the existing literature, you need to
 emphasise what is new in your research. This is easier when discussing what has
@@ -101,8 +101,8 @@ not have a separate section called „Literature“ but discuss the literature i
 the introduction.&lt;/p&gt;
 
 &lt;p&gt;Another reason to avoid a separate literature section is that section headings
-seem to act in a similar way to doors. When looking for something and walking through a
-door people tend to forget what they came looking for (see &lt;a href=&quot;https://www.livescience.com/17132-forget-walked-room-doorways-blame-study-finds.html&quot;&gt;evidence described
+seem to act in a similar way to doors. When looking for something and walking into 
+another room, people tend to forget what they came looking for (see &lt;a href=&quot;https://www.livescience.com/17132-forget-walked-room-doorways-blame-study-finds.html&quot;&gt;evidence described
 here&lt;/a&gt;).
 Similarly, section headings appear to disconnect the mind of the writer from the
 previous section, which results in literature reviews that are only vaguely

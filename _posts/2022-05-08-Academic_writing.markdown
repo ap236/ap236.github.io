@@ -66,14 +66,14 @@ example, due to the regulation of a particular industry or the requirements of a
 particular company where you write your thesis. Any general introduction that
 provides a background should nonetheless be specific to your research and not
 exceed a short paragraph. Always avoid general statements, such as „GDP is an
-important economic variable“, from which the reader learns nothing.
+important economic variable“ from which the reader learns nothing.
 
 Literature
 ----------
 
 It is important that you place your own research in the literature. This serves
 a number of purposes. First, it is unlikely that you have not based your
-research on that of others, and you need to indicate what you have been building
+research on that of others and you need to indicate what you have been building
 on. This is important as even the suspicion of plagiarism is damaging. Second,
 given that most readers will be aware of the existing literature, you need to
 emphasise what is new in your research. This is easier when discussing what has
@@ -91,8 +91,8 @@ not have a separate section called „Literature“ but discuss the literature i
 the introduction.
 
 Another reason to avoid a separate literature section is that section headings
-seem to act in a similar way to doors. When looking for something and walking through a
-door people tend to forget what they came looking for (see [evidence described
+seem to act in a similar way to doors. When looking for something and walking into 
+another room, people tend to forget what they came looking for (see [evidence described
 here](https://www.livescience.com/17132-forget-walked-room-doorways-blame-study-finds.html)).
 Similarly, section headings appear to disconnect the mind of the writer from the
 previous section, which results in literature reviews that are only vaguely
