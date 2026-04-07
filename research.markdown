@@ -11,8 +11,8 @@ Editor
 Articles
 ----------------
 
-* Andreas Pick (2026) "[Stochastic search selection for heterogeneous panel data models](/papers/Pick2026panelSSVS.pdf)"  *Econometric Reviews* (accepted)<br>
-Code on [GitHub](https://github.com/ap236/Stochastic-Search-Selection-for-Panel-Data-Models)
+* Andreas Pick (2026) "[Stochastic search selection for heterogeneous panel data models](https://doi.org/10.1080/07474938.2026.2627915)"  *Econometric Reviews* (accepted)<br>
+[Working paper version](/papers/Pick2026panelSSVS.pdf), Code on [GitHub](https://github.com/ap236/Stochastic-Search-Selection-for-Panel-Data-Models)
 
 * Hashem Pesaran, Andreas Pick and Allan Timmermann (2026) "[Forecasting with panel
 data: estimation uncertainty versus parameter heterogeneity](https://arxiv.org/abs/2404.11198)"
