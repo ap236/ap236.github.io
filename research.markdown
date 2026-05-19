@@ -15,9 +15,10 @@ Articles
 [Working paper version](/papers/Pick2026panelSSVS.pdf), Code on [GitHub](https://github.com/ap236/Stochastic-Search-Selection-for-Panel-Data-Models)
 
 * Hashem Pesaran, Andreas Pick and Allan Timmermann (2026) "[Forecasting with panel
-data: estimation uncertainty versus parameter heterogeneity](https://arxiv.org/abs/2404.11198)"
-*Quantitative Economics* (accepted)<br>
-Presentation of previous version by Hashem Pesaran on [YouTube](https://www.youtube.com/watch?v=8LxhVGrCJrQ), 
+data: estimation uncertainty versus parameter heterogeneity](https://doi.org/10.3982/QE2589)"
+*Quantitative Economics* 17(2) 342-393<br>
+[Working paper version](https://arxiv.org/abs/2404.11198),
+Presentation of a previous version by Hashem Pesaran on [YouTube](https://www.youtube.com/watch?v=8LxhVGrCJrQ), 
 Code on [GitHub](https://github.com/ap236/panelForecasting)
 
 * Dennis Kant, Andreas Pick and Jasper de Winter (2025) "[Nowcasting GDP using
