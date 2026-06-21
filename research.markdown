@@ -83,7 +83,7 @@ Other Publications
 GDP?" [SUERF Policy Brief](https://www.suerf.org/wp-content/uploads/2023/12/f_3d1ea4feabe1e0e42df6e0c9e599fe93_61267_suerf.pdf), 521
 
 * Michael Biggs, Thomas Mayer and Andreas Pick (2010)
-"The myth of the 'Phoenix Miracle'" [VoxEU.org](http://www.voxeu.org/index.php?q=node/5038), 14 May 2010
+"The myth of the 'Phoenix Miracle'" [VoxEU.org](https://cepr.org/voxeu/columns/myth-phoenix-miracle), 14 May 2010
 
 * Michael Biggs, Thomas Mayer and Andreas Pick (2009)
 "The myth of the credit-less recovery" Deutsche Securities: Global Macro Issues
